@@ -10,7 +10,6 @@ tags:
 >---|---|
 >**Race**|Human (deceased)|
 >**Class**|Ur-priest|
->**Status**|Ghost|
 >###### Info
 >Bound to the [[Banished Seed of Moander|Demiplanar Donjon]]
 
