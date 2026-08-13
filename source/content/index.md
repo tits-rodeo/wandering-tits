@@ -1,6 +1,6 @@
 ---
 publish: true
 tags:
-  - planar-pathfinders
+  - wandering-tits
 ---
-Welcome to the Planar Pathfinders Wiki
+Welcome to the Wandering Tits Wiki
