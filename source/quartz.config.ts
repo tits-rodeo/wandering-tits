@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Planar Pathfinders Wiki",
+    pageTitle: "The Wandering Tits Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "planarpathfinders.teamwhateverman.com",
+    baseUrl: "wandering.tits.rodeo",
     ignorePatterns: [
       "private", "templates", ".obsidian",
       "- - -/dungeon_alchemist",
@@ -85,7 +85,7 @@ const config: QuartzConfig = {
     filters: [
       Plugin.RemoveDrafts(),
       Plugin.ExplicitPublish(),
-      Plugin.RequireTag({ tag: "planar-pathfinders" }),
+      Plugin.RequireTag({ tag: "tits" }),
     ],
     emitters: [
       Plugin.AliasRedirects(),
