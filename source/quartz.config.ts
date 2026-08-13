@@ -85,7 +85,7 @@ const config: QuartzConfig = {
     filters: [
       Plugin.RemoveDrafts(),
       Plugin.ExplicitPublish(),
-      Plugin.RequireTag({ tag: "tits" }),
+      Plugin.RequireTag({ tag: "wandering-tits" }),
     ],
     emitters: [
       Plugin.AliasRedirects(),
