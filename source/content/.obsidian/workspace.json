@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Lore/Magic/The Weave.md",
+                "file": "Wiki/Characters/Main/Mantis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Weave"
+              "title": "Mantis"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Lore/Magic/The Weave.md",
+                "file": "Wiki/Characters/Main/Mantis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Weave"
+              "title": "Backlinks for Mantis"
             }
           },
           {
@@ -171,6 +171,8 @@
   },
   "active": "c19243e40aafb9e4",
   "lastOpenFiles": [
+    "Wiki/Lore/Magic/The Weave.md",
+    "- - -/attachments/mantis_portrait.png",
     "Wiki/Organizations/Crimson Flame.md",
     "Wiki/Organizations/Church of Tiamat.md",
     "Wiki/Organizations/Order of Bahamut.md",
@@ -194,10 +196,8 @@
     "Wiki/Characters/Main/Azhura.md",
     "Wiki/Locations/Planes/Transitive Planes/Astral Plane.md",
     "Wiki/Lore/Banished Seed of Moander.md",
-    "Wiki/Lore/Magic/The Weave.md",
     "Wiki/Organizations/Cult of the Dragon.md",
     "Wiki/Organizations/Cult of Ouroboros.md",
-    "Wiki/Lore/Gods/Tiamat.md",
     "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.3965fa3b7f91",
     "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.66d2341f0403",
     "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.3ad56908ea9c",
@@ -216,7 +216,6 @@
     "- - -/attachments/taxi_portrait.png",
     "- - -/attachments/boss.jpg",
     "- - -/attachments/azhura_portrait.png",
-    "- - -/attachments/concordant_express.png",
     "0. DM Screen/Character Sheets/Untitled.canvas",
     "0. DM Screen/Untitled.canvas"
   ]
