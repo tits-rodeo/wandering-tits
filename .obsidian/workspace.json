@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Characters/Main/Mantis.md",
+                "file": "Wiki/Magic Items/Mantis' Amulet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mantis"
+              "title": "Mantis' Amulet"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Characters/Main/Mantis.md",
+                "file": "Wiki/Magic Items/Mantis' Amulet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mantis"
+              "title": "Backlinks for Mantis' Amulet"
             }
           },
           {
@@ -171,6 +171,8 @@
   },
   "active": "c19243e40aafb9e4",
   "lastOpenFiles": [
+    "Wiki/Characters/NPCs/Astral Plane/Ashyra Veil.md",
+    "Wiki/Characters/Main/Mantis.md",
     "Wiki/Lore/Magic/The Weave.md",
     "- - -/attachments/mantis_portrait.png",
     "Wiki/Organizations/Crimson Flame.md",
@@ -188,7 +190,6 @@
     "Wiki/Characters/NPCs/Toril/The Sword Coast/Skaerth.md",
     "Wiki/Characters/Main/Quinsley.md",
     "Wiki/Characters/Main/Mina.md",
-    "Wiki/Characters/Main/Mantis.md",
     "Wiki/Characters/Main/Trixie.md",
     "1. Game/Species/Half-Tabaxi.md",
     "Wiki/Characters/Main/Tok Tok.md",
