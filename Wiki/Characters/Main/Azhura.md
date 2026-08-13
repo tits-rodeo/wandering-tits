@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -10,8 +10,6 @@ tags:
 >Type|Stat|
 >---|---|
 >**Race**|[[Half Dragon]]|
->###### Languages
->Common
 
 ## Backstory
 Azhura appears as a tall young woman with pale olive skin, a lean but athletic build, shoulder-length crimson hair, golden eyes with slit pupils, patches of red scales across her body, curved dragon horns, clawed hands, large draconic wings, and a long red tail. She is unmistakably neither dragon nor human.

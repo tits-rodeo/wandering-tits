@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -17,5 +17,5 @@ For fifteen years, the Karanok family of Luthcheq unwittingly served Tiamat whil
 
 Many evil dragons have worshiped Tiamat since their species first appeared on Toril, and kobolds believe she is their creator, and although they don't worship her as a god, they revere her as their creator. After the Spellplague, the church also gained a few dragonborn followers.
 
-## In the Sword Mountains
+## (DM Only) In the Sword Mountains
 The church's true seats of power lie far to the east, in Unther and Chessenta, but it maintains a small remote outpost within [[Crimson Flame]] territory. [[Skaerth]] is a practical zealot of Tiamat, and the outpost's clergy supply the clan with doctrine, ritual, and the occasional political intermediary in exchange for his patronage — though exactly how much authority Skaerth cedes to them within his own territory remains unclear even to those who study the clan.

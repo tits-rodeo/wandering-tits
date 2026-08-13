@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -14,5 +14,5 @@ Following the destruction of the *Dracorage mythal*, Tiamat gained some follower
 
 The Cult's leader, Severin Silrajin, later assembled the *Mask of the Dragon Queen* at Tiamat's instruction, using it to bring Tiamat's Temple from her realm in Avernus to the Well of Dragons. He and his forces were ultimately defeated, and Tiamat was banished back to the Nine Hells.
 
-## In the Sword Mountains
+## (DM Only) In the Sword Mountains
 [[Skaerth]] valued the Cult's mortal reach but always rejected its dracolich obsession, believing living dragons should rule in Tiamat's name rather than undead ones. For centuries that put him at odds with the Cult's mainstream, which remained devoted to dracolich apotheosis and claimed no single patron deity — his was a fringe position with little traction. Only in recent decades, as a reformist Cult leader steered much of the organization toward Tiamat and living draconic rule, has Skaerth's old heresy suddenly found real company. The [[Crimson Flame]] now quietly cultivates sympathetic cells and nudges them further into that orbit while the alignment holds; it's an influence, not a takeover. [[Lord Halvern]] is one such cultivated asset, a Cult member and subordinate of Skaerth's.

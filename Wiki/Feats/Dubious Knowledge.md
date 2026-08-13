@@ -2,6 +2,7 @@
 publish: true
 tags:
   - planar-pathfinders
+  - wandering-tits
 ---
 You're a treasure trove of information, but not all of it comes from reputable sources. 
 

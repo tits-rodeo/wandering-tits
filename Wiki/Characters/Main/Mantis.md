@@ -1,17 +1,15 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
 >[!infobox]+
-># Mantis
+># Mantis the Coronatid Thri-kreen
 >![[mantis_portrait.png]]
 >###### Stats
 >Type|Stat|
 >---|---|
 >**Race**|Thri-Kreen|
->###### Languages
->Common
 
 ## Backstory
 Mantis is a thri-kreen warrior from another planet currently working off a debt at [[The Wandering Tit]] tavern.

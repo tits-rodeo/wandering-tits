@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -14,7 +14,7 @@ His natural form is that of a platinum dragon, said by many to be the only one o
 **Home Plane:** Celestia
 **Worshipers:** Metallic dragons, dragonborn
 
-## Description
+## (DM Only) Description
 In his natural form, Bahamut is a massive dragon approximately 180 feet long, with a tail the same length as his body, with platinum scales tougher than any shield (said by some to be virtually indestructible) that glow with a faint blue sheen, and blue eyes, the exact color of which is hard to specify and may depend on Bahamut's mood. As Xymor, he was described as a huge dragon wrapped in a scintillating aura of light so brilliant that it was impossible to tell his color.
 
 When he wishes to wander the mortal world, he usually takes the appearance of an old human or demihuman wizard dressed in peasant robes, accompanied by seven canaries or other songbirds. This persona has come to be known among mortals as Fizban the Fabulous. Some sages believe Bahamut uses this humanoid guise so as not to frighten non-dragon beings. They also believe that while Bahamut is fond of his old man guise, he has other guises as well. Other recorded guises include that of a prince with a carriage drawn by seven horses, an urchin accompanied by seven friends, a beggar followed by seven dogs, a humble fisher, or a young monk who bears the title of the "Grandmaster of Flowers," a title that is also used by the monks of the Monastery of the Yellow Rose.
@@ -22,7 +22,7 @@ When he wishes to wander the mortal world, he usually takes the appearance of an
 ### Diet
 Bahamut's favored food is the early morning frost on blades of grass, honey, and daisy petals. He is able to eat anything, however, and needs no sustenance while in his palace.
 
-## Personality
+## (DM Only) Personality
 Bahamut is stern and very disapproving of evil, always arguing with Asgorath about his crusade against it. He accepts no excuses for evil acts, and doesn't tolerate even minor offenses by evil creatures.
 
 In spite of his stance, he is also considered one of the most compassionate beings in the multiverse. He has limitless empathy for the downtrodden, the dispossessed, and the helpless. He usually prefers to polymorph those who have offended him instead of killing them, although it is also said that Bahamut loathes to sully himself with the blood of evil creatures.
@@ -33,7 +33,7 @@ Bahamut also likes to prove the strength and worthiness of his followers by batt
 
 While his court comprises only gold dragons, Bahamut enjoys the company of all good dragons, delighting in their differences and varied personalities.
 
-## Powers
+## (DM Only) Powers
 Bahamut disdains combat, and he prefers to talk with his opponents and convince them to surrender using his legendary diplomatic skills. Bahamut speaks many languages, including Draconic, Celestial, Auran, and Common, although he has the ability to speak to any intelligent creature thanks to his ever-present, receptive form of telepathy.
 
 Despite his aversion to battle, he is easily capable of defending himself. Along with all the standard powers and godly senses of a deity of his rank, as well as the natural abilities of an ancient dragon, those who have seen him fight claim that he has two breath weapons, one a powerful *cone of cold*, the other a vapor that turns his enemies into gaseous forms. A third special attack is his roar, which is so powerful that it can *disintegrate* creatures or objects within 100 feet (30 meters). If facing off against more powerful creatures, this roar will still permanently deafen those who aren't turned to dust. He is also capable of breathing the holy winds of Mount Celestia, which allows him to heal his allies and even resurrect his fallen comrades. On top of that, he is more powerful than any mortal dragon, and is also reputed to know every arcane and divine spell. Few things in the mortal world can cause him lasting harm.
@@ -52,7 +52,7 @@ According to some sages, aspects of Bahamut physically combine elements of all k
 ## Realm
 Myths claim that the great fortified castle that Bahamut calls home is somewhere "behind the east wind," and many scholars believe Bahamut's castle is located on the Elemental Plane of Air. Others believe his palace is located "behind the north wind," this being the origin of his "Lord of the North Wind" title. However, Bahamut's Palace is actually located on the plane of Celestia.
 
-## Activities
+## (DM Only) Activities
 Bahamut spends half of his time traveling the Material Plane's many worlds (including Toril, Krynn, and Abeir) in the guise of an old man. In this form, he travels from one place to another with no apparent purpose and is quick to offer advice, information, or assistance to other travelers he encounters on the road. He always tries to assess the worthiness—viewed through a lens of justice, nobility, and honor—of everyone he meets while traveling. Some say that Bahamut has visited every known world and plane during these travels at least once in his lifetime. When Bahamut assumes the form of the old man, he is usually accompanied by seven gold great wyrms polymorphed into canaries or some other small animal form, always ready to attack anyone foolish enough to threaten their god.
 
 He spends the rest of his time holding court in his shining palace on Celestia. Good-aligned clerics and paladins usually take pilgrimages to his castle, seeking to receive the blessings of the Platinum Dragon.
@@ -68,12 +68,12 @@ Bahamut is a servant deity to Torm, occupying an equivalent position to that of 
 
 Bahamut's antithesis is Tiamat, as both of them represent opposing values, and this enmity is reflected in the attitude of each deity's worshipers as well. He is also at odds with Falazure, the evil aspect of Null.
 
-### Servitors
+### (DM Only) Servitors
 As Bahamut is active in the Material Plane, he needs fewer divine servants than other deities. The best known of his few exarchs is Kuyutha, a dragonborn demigod. As of 1479 DR, the King of Justice Tamarand was one of his few Chosen.
 
 After the Second Sundering, Aasterinian was ranked as a greatwyrm and serves as a messenger for Bahamut.
 
-### The Seven Gold Wyrms
+### (DM Only) The Seven Gold Wyrms
 A council of seven ancient gold dragons comprises Bahamut's court. They are Bahamut's closest servants and friends. Each one works on specific tasks, and serves as Bahamut's emissaries in tasks that don't demand the god's personal attention. They also advise Bahamut on matters of honor and act as a jury when the god is judging evildoers—often apprehended by his champions.
 
 Some claim these wyrms are reincarnations of dead kings, renowned for their sense of justice and returned to life to serve the Platinum Dragon. Gold dragons, however, believe that Bahamut chooses among the most noble and courageous among them to serve him in this capacity, and they consider a position in his court to be the most prestigious of all. According to gold dragon traditions, Bahamut chooses them through secret, elaborate, and dangerous tests that challenge their mettle. Once appointed to a position in his court, that gold dragon serves Bahamut until dead or until it is too old or infirm to aid their god.
@@ -133,12 +133,12 @@ His dragon adepts follow the Ptarian Code, a draconic code of honor created by t
 ### Rites
 Bahamut's worshipers and clergy have no formal rituals or ceremonies. Those who follow the Platinum Dragon believe in the philosophy of "praying through their deeds." The only activity that is considered something like a ritual is the *Rite of Rebirth*, the magical process by which non-dragon humanoids transform themselves into dragonborn.
 
-## Weaknesses
+## (DM Only) Weaknesses
 Bahamut is ontologically distinct from the gods that hail from the Outer Planes, rendering his True Form vulnerable to discorporation by mighty mortals.
 
 However, achieving his permanent destruction requires particular means. Malevolent entities could corrupt the specific rituals used by his high priests, forcibly summoning Bahamut in a grand temple where he could be slain. Legends also speak of a rebellious son concealed within the planes who, if found, could challenge his father and seize his divine station by force. Furthermore, as the embodiment of pure virtue, if he were tricked into committing a supremely dishonorable act, he would voluntarily abdicate his divinity, leaving him as vulnerable as an ancient dragon.
 
-## History
+## (DM Only) History
 For ages, sages debated whether Bahamut actually was a deity or not. Many believed he was the archetype of good dragonkind, the avatar of another deity, or even a mortal dragon so powerful that other dragons revered him like a god. Whatever he was, sages knew for certain that he was powerful, was venerated by many good dragons as their king, and was even respected by evil ones.
 
 ### Origins
