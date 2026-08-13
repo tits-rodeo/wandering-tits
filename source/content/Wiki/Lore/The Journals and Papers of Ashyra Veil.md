@@ -1,7 +1,7 @@
 ---
 publish: true
 tags:
-  - planar-pathfinders
+  - wandering-tits
 ---
 Recovered from the ruined study within [[Banished Seed of Moander|the demiplanar donjon]] -- water-stained pages, scattered rather than bound, in the hand of [[Ashyra Veil|Ashyra]] herself. Presented here roughly in the order they were written.
 

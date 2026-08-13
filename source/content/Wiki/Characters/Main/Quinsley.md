@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -10,15 +10,13 @@ tags:
 >Type|Stat|
 >---|---|
 >**Race**|Aasimar|
->###### Languages
->Common, Celestial
 
 ## Backstory
 Quinsley was born to a minor celestial lineage and once served in the court of Helm. When a child was prophesied to grow into a brutal tyrant, Quinsley refused to condemn someone for a future that hadn't happened yet, and stood up to protect them. Helm respected the choice, and Quinsley fell from the court by choice rather than punishment.
 
 Since her fall, Quinsley spent most of her life as a sage before eventually taking work as a caravan guard, a job she held for eleven years. She never speaks of her past. On watch, she has a reputation for never sleeping — she simply stares into the dark, humming a lullaby from Arborea.
 
-She eventually made her way to Underleaf after her time guarding caravans. She keeps up with current affairs, is committed to doing her part, and is fiercely protective of those she respects.
+She eventually made her way to [[Underleaf]] after her time guarding caravans. She keeps up with current affairs, is committed to doing her part, and is fiercely protective of those she respects.
 
 ## (DM Only) The Dark of It
 *(To be expanded — Quinsley's survey answers leave much of her history as an outline. Details below reflect what has been established; gaps are noted for future development.)*

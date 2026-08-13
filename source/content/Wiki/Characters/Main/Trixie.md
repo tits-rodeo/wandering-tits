@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -15,7 +15,9 @@ tags:
 
 ## Backstory
 
-- Made way to [[The Wandering Tit]]  and offered services.
+One of the earliest employees of [[The Wandering Tit]], she always carries a lute with her and is quick to play a tune, by request or seemingly at random. The lute appears to carry special magic, allowing her to generate the sounds of an entire orchestra, and even some instruments unknown to the likes of native Faerunians.
+
+Not much is known about Trixie, save that she came to the town of [[Underleaf]] from lands far to the south. While generally positive and quick to keep the mood light, there is often an undercurrent of slyness and worry to her demeanor, almost as if she's trying to hide something that troubles her.
 
 ## (DM Only) The Dark of It
 - **Real Name:** Noriko

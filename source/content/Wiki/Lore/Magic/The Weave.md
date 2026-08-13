@@ -1,13 +1,15 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
-## The Weave
+*(Just quick notes for now)*
+
+## An Overview
 - Easy mode access to arcane energy
-	- Use called "the Art"
+	- Use of is called "the Art"
 	- Ability to use called "the Gift" -- raw talent
-- One of numerous means of access to such energy
+- One of numerous means of access to arcane energy. Others include:
 	- Table magic
 	- True name magic
 - Mystra IS the Weave
@@ -21,8 +23,6 @@ tags:
 - Spaces in between the Weave
 - Relies on the Weave, since it's basically a reflection (shadow) of it
 - Leeches energy from the Weave
-- 
 
 ## Spellfire
 - Basically harnessing raw arcane energy as opposed to weave manipulation?
-- 

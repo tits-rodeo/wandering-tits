@@ -1,10 +1,8 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
-
-- Look up: Horde of the Dragon Queen adventure (5E)
 
 Tiamat is the chaotic evil and lawful evil dragon goddess of greed, queen of evil dragons and, for a time, reluctant servant of the greater gods Bane and later Asmodeus. Before entering the Faerûnian pantheon, she was a member of the Draconic pantheon, and for some time she was also a member of the Untheric pantheon.
 
@@ -17,7 +15,7 @@ Tiamat is also the eternal rival of her brother Bahamut, ruler of the good metal
 **Home Plane:** The Nine Hells / Avernus
 **Realm:** Tiamat's Lair
 
-## Description
+## (DM Only) Description
 Tiamat is a unique chromatic dragon, with one head for each primary color of the most common species of chromatics (black, blue, green, red, white). Each head operates entirely independently of the others and has the powers of a member of the respective race of dragonkind. Her body also shares traits with a wyvern, including a long tail tipped with a venomous stinger.
 
 She also has three main avatars. *The Dark Lady* is a mulan woman with long dark hair and completely black eyes. She always wears dark robes and frequently has a seductive smile on her face.
@@ -26,7 +24,7 @@ She also has three main avatars. *The Dark Lady* is a mulan woman with long dark
 
 Tiamat has three manifestations in Avernus as well, one of which never leaves the gate to Dis. Her manifestation as Azharul is her other "public" face used when foes challenge her to combat, while her original body remains secluded in her lair.
 
-## Personality
+## (DM Only) Personality
 Tiamat is arrogant, greedy, hateful, spiteful, and vain. She never forgives any kind of slight and is focused on obtaining more power and wealth. She disdains mortals, regarding them as mere disposable tools in her schemes. When needed, she is charming and fey, but her self-serving and reptilian personality betrays her sooner or later.
 
 Having experienced relative mortality as an archfiend, she has become less reckless but also paranoid.
@@ -35,7 +33,7 @@ Tiamat enjoys the company of dragons, and keeps many great wyrm consorts of the 
 
 She has an insatiable greed for treasure, but prefers that her followers bring it to her in the form of gifts instead of searching for riches on her own.
 
-## Powers
+## (DM Only) Powers
 As a unique type of chromatic dragon with the traits of the five most common chromatic varieties, Tiamat is a foe to be reckoned with in battle.
 
 Along with all the standard powers and godly senses of a deity of her rank, those who have seen her fight claim that her heads are able to cooperate in battle, and that those heads have the ability to use the breath weapons and spell-like abilities common to their species. Although her sheer size prevents claw and kick attacks while on the ground, she is adept at their use while flying. She also has a stinger on her tail that injects a powerful venom into her foes, killing them in agonizing pain.
@@ -47,14 +45,14 @@ After the dissolution of the Untheric pantheon, her realm became the *Dragonspaw
 
 She is reputed to have a realm in Heliopolis, but in fact that is a hoax Tiamat uses in hopes of confusing her enemies.
 
-## Activities
+## (DM Only) Activities
 Tiamat wants to take control of the Realms, and even as she is thwarted again and again by her enemies, she doesn't give up. She has a particular interest in controlling Unther and Chessenta, and after the Spellplague, she also gained interest in Murghôm, Tymanther, and the dragon empires of Laerakond. She doesn't like to leave her lair, however, and usually acts to advance her agenda by using members of her Church or her agents in the Cult of the Dragon.
 
 Tiamat keeps an active watch over evil dragonkind and always stirs them to further actions of avarice, pride, and wickedness.
 
 As of 1491 DR, her primary goal is to break free from the Nine Hells.
 
-## Relationships
+## (DM Only) Relationships
 Tiamat is the antithesis of her brother Bahamut, as both of them represent opposing values, and this enmity is reflected in the attitude of each deity's worshipers as well. She is also at odds with Falazure (the evil aspect of Null) for some slight lost to history. The god of the kobolds, Kurtulmak, is also her servant.
 
 Being a member of certain pantheons made her some other enemies. She conflicted with Iyachtu Xvim, as he was the only significant opposition to her joining the Faerûnian pantheon, then later with his father, Bane. She also counts Ilmater among her enemies. Tiamat has some kind of contract with the githyanki race after their leader Gith treated with her.
@@ -81,12 +79,12 @@ Tiamat accepts only evil clerics. They, like Tiamat herself, seek to place the w
 ### Church of Tiamat
 The [[Church of Tiamat]] is regimented by a strict hierarchy of ranks and titles. Her clerics are occupied by the twin tasks of acquiring an ever-increasing hoard of wealth for the faith and sabotaging the faiths of other deities. As a result, they occupy most of their time with an unending series of thefts, assassinations, acts of vandalism, and arson. In Unther and Chessenta they are primarily concerned with seizing as much power as possible, while in western Faerûn, the cult's agents are focused on subverting the Cult of the Dragon.
 
-## Weaknesses
+## (DM Only) Weaknesses
 Tiamat is ontologically distinct from the gods that hail from the Outer Planes, rendering her True Form vulnerable to discorporation by mighty mortals.
 
 However, achieving her permanent destruction requires specific conditions. Her primary weakness is her avarice, through which she can be lured from her stronghold by priceless ancient treasures and drawn into Bahamut's domain, leaving her vulnerable to imprisonment or death. Alternatively, she can be destroyed by heroes wielding magical equipment crafted from the remains of five ancient chromatic dragons—one of each color—provided that at least one of the dragons was her former consort. Additionally, the ritual known as *Fashioning Tiamat's True Death* allows for her total annihilation—by quenching weapons in Tiamat's own eggs, wielders can destroy her essence.
 
-## History
+## (DM Only) History
 For ages, sages debated whether Tiamat was actually a deity or not. Many believed she was the archetype of evil dragonkind, a devil or demon, the avatar of another deity, or even a mortal dragon so powerful that chromatic dragons revered her as their queen and creator. Whatever she was, sages knew for certain that she was powerful and worshiped by evil dragons as a goddess.
 
 ### Origins
