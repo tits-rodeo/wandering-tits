@@ -90,15 +90,53 @@ function setupExplorer() {
     currentExplorerState.push({ path, collapsed: oldIndex.get(path) ?? collapsed })
   }
 
+  // Look folders up by comparing dataset values directly rather than
+  // interpolating the path into a CSS selector string, since folder/file
+  // names can contain characters (e.g. apostrophes) that break the selector.
+  const folderPathToLi = new Map<string, HTMLElement>()
+  for (const el of document.querySelectorAll<HTMLElement>("[data-folderpath]")) {
+    const path = el.dataset.folderpath
+    if (path !== undefined) folderPathToLi.set(path, el)
+  }
+
   currentExplorerState.map((folderState) => {
-    const folderLi = document.querySelector(
-      `[data-folderpath='${folderState.path}']`,
-    ) as MaybeHTMLElement
+    const folderLi = folderPathToLi.get(folderState.path)
     const folderUl = folderLi?.parentElement?.nextElementSibling as MaybeHTMLElement
     if (folderUl) {
       setFolderState(folderUl, folderState.collapsed)
     }
   })
+
+  // Regardless of saved/default state, always keep the folders leading to the
+  // current page expanded so the active entry stays reachable in the tree.
+  openFolderPathToActiveFile()
+}
+
+/**
+ * Ensures every ancestor folder of the currently viewed page is expanded,
+ * overriding whatever collapsed state it was left in previously.
+ */
+function openFolderPathToActiveFile() {
+  const explorerUl = document.getElementById("explorer-ul")
+  const currentSlug = document.body.dataset.slug
+  if (!explorerUl || !currentSlug) return
+
+  const activeLink = explorerUl.querySelector(
+    `a[data-for="${CSS.escape(currentSlug)}"]`,
+  ) as MaybeHTMLElement
+  if (!activeLink) return
+
+  let el: MaybeHTMLElement = activeLink.parentElement as MaybeHTMLElement
+  while (el && el !== explorerUl) {
+    if (el.classList.contains("folder-outer")) {
+      el.classList.add("open")
+      const folderUl = el.querySelector(":scope > ul[data-folderul]") as MaybeHTMLElement
+      const folderPath = folderUl?.dataset.folderul
+      const entry = currentExplorerState.find((s) => s.path === folderPath)
+      if (entry) entry.collapsed = false
+    }
+    el = el.parentElement as MaybeHTMLElement
+  }
 }
 
 window.addEventListener("resize", setupExplorer)
