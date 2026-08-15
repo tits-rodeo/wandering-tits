@@ -18,6 +18,18 @@ section {
   color: var(--darkgray);
 }
 
+// Warm paper vignette, matching the "Paper Shadow" style-setting on the
+// source Obsidian ITS theme (wotc-beyond variant): an inset glow using its
+// --outline color (#fbb4577e).
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  box-shadow: inset 0 0 140px 10px rgba(251, 180, 87, 0.49);
+}
+
 .text-highlight {
   background-color: var(--textHighlight);
   padding: 0 0.1rem;
