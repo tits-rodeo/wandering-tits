@@ -171,6 +171,19 @@ a {
       grid-template-areas: #{map-get($mobileGrid, templateAreas)};
     }
 
+    // reclaim the right sidebar's column/row when it has no content (e.g. no TOC)
+    &:has(> .right.sidebar:empty) {
+      grid-template-columns: #{$sidePanelWidth} auto;
+      grid-template-areas: '"grid-sidebar-left grid-header"\
+        "grid-sidebar-left grid-center"\
+        "grid-sidebar-left grid-footer"';
+      @media all and ($desktop) {
+        grid-template-areas: '"grid-sidebar-left grid-header"\
+          "grid-sidebar-left grid-center"\
+          "grid-sidebar-left grid-footer"';
+      }
+    }
+
     @media all and ($desktop) {
       padding: 0 1rem;
     }
@@ -202,6 +215,10 @@ a {
         padding: 0;
         padding-top: 2rem;
       }
+    }
+
+    & .sidebar.right:empty {
+      display: none;
     }
 
     & .sidebar.right {
