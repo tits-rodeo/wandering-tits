@@ -1,4 +1,5 @@
 ---
+title: Welcome to the Wandering Tits Wiki!
 publish: true
 tags:
   - wandering-tits
