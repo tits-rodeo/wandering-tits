@@ -95,6 +95,9 @@ button#explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      display: inline-block;
+      padding-left: 1rem;
+      text-indent: -1rem;
     }
   }
   > #explorer-ul {
