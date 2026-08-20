@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Creatures/Spellweaver.md",
+                "file": "Wiki/Locations/Toril/Underleaf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spellweaver"
+              "title": "Underleaf"
             }
           }
         ]
@@ -172,6 +172,12 @@
   },
   "active": "04008c569150d8d3",
   "lastOpenFiles": [
+    "- - -/attachments/yggdrasil_map.png",
+    "- - -/maps/underleaf.jpg",
+    "- - -/maps/underleaf.png",
+    "Wiki/Locations/Toril/Underleaf.md",
+    "Wiki/Characters/Azhura.md",
+    "Wiki/Creatures/Spellweaver.md",
     "Wiki/Locations/Planes/The Shadowfell.md",
     "Wiki/Characters/Toril/Valraxis.md",
     "Wiki/Characters/Trixie.md",
@@ -194,10 +200,6 @@
     "Wiki/Characters/Conrad.md",
     "Wiki/Characters/Corvus.md",
     "Wiki/Characters/Mantis.md",
-    "Wiki/Characters/Azhura.md",
-    "Wiki/Magic Items/Quinsley's Amulet.md",
-    "Wiki/Magic Items/Trixie's Lute.md",
-    "Wiki/Magic Items/Portal Compass.md",
     "- - -/attachments/mantis_portrait.png",
     "- - -/attachments/quinsley_portrait.png",
     "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md.tmp.21703.3965fa3b7f91",
@@ -216,8 +218,6 @@
     "_attachments/Pasted image 20260704144008.png",
     "- - -/attachments/toktok_portrait.png",
     "- - -/attachments/taxi_portrait.png",
-    "- - -/attachments/boss.jpg",
-    "- - -/attachments/azhura_portrait.png",
     "0. DM Screen/Character Sheets/Untitled.canvas",
     "0. DM Screen/Untitled.canvas"
   ]
