@@ -115,6 +115,366 @@
       "files": [
         "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Map - Demiplanar Donjon.md"
       ]
+    },
+    {
+      "id": "underleaf-map",
+      "lastAccessed": 1787294971075,
+      "markers": [
+        {
+          "id": "ID_99ba29f96a49",
+          "type": "default",
+          "loc": [
+            4788.125,
+            2624
+          ],
+          "link": "Adventure - Liberating Underleaf#Burned Clearing",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Burned Clearing",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4869882aba4a",
+          "type": "default",
+          "loc": [
+            3540.515625,
+            2908
+          ],
+          "link": "Adventure - Liberating Underleaf#Renn's Smithy",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Renn's Smithy",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39c96aebaacb",
+          "type": "default",
+          "loc": [
+            1403.6290577422087,
+            2114.249275747777
+          ],
+          "link": "Adventure - Liberating Underleaf#Hearth Hall - Common House",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Hearth Hall - Common House",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39fac9595879",
+          "type": "default",
+          "loc": [
+            1120.78634526759,
+            2377.2929983491726
+          ],
+          "link": "Adventure - Liberating Underleaf#Hearth Hall - Armory",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Hearth Hall - Armory",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19c8091bf8f8",
+          "type": "default",
+          "loc": [
+            1229.6807895703182,
+            1845.548698896889
+          ],
+          "link": "Adventure - Liberating Underleaf#Hearth Hall - Meeting Chamber",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Hearth Hall - Meeting Chamber",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a393acb783b",
+          "type": "default",
+          "loc": [
+            811.073575107882,
+            1880.9040379562164
+          ],
+          "link": "Adventure - Liberating Underleaf#Hearth Hall - Office",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Hearth Hall - Office",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e90b6b68f8c8",
+          "type": "default",
+          "loc": [
+            794.1030123594049,
+            2347.5945135393376
+          ],
+          "link": "Adventure - Liberating Underleaf#Hearth Hall - Rookery",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Hearth Hall - Rookery",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a6bb9cb4b38",
+          "type": "default",
+          "loc": [
+            875.4423892827699,
+            3753.322794538194
+          ],
+          "link": "Adventure - Liberating Underleaf#Brewery",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Brewery",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_590a98f9bab8",
+          "type": "default",
+          "loc": [
+            1892.217746455201,
+            4386.89047048134
+          ],
+          "link": "Adventure - Liberating Underleaf#Local Wizard",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.829436655413375,
+            -0.35749437869926337
+          ],
+          "description": "Local Wizard",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_996baadb9bd9",
+          "type": "default",
+          "loc": [
+            2048,
+            3096
+          ],
+          "link": "Adventure - Liberating Underleaf#Grocer",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5853658536585366,
+            -0.3869261288494238
+          ],
+          "description": "Grocer",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b829abebbaab",
+          "type": "default",
+          "loc": [
+            1255.8216433873083,
+            1275.6206332605316
+          ],
+          "link": "Adventure - Liberating Underleaf#Grocer's House",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2411837083116906,
+            -0.23726084326229138
+          ],
+          "description": "Grocer's House",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbc8b99928aa",
+          "type": "default",
+          "loc": [
+            2158.8191000494417,
+            1442.4978336205568
+          ],
+          "link": "Adventure - Liberating Underleaf#Local Artist",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Local Artist",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88991af8aa09",
+          "type": "default",
+          "loc": [
+            3650.0625,
+            1288
+          ],
+          "link": "Adventure - Liberating Underleaf#Cemetary",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cemetary",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db8bc80a98aa",
+          "type": "default",
+          "loc": [
+            386.0625,
+            320
+          ],
+          "link": "Adventure - Liberating Underleaf#Crimson Flame Camp",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Crimson Flame Camp",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a2baac86a68",
+          "type": "default",
+          "loc": [
+            2346.0625,
+            536
+          ],
+          "link": "Adventure - Liberating Underleaf#Carriage",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Carriage",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aafa8ad97adb",
+          "type": "default",
+          "loc": [
+            2179.3472937907636,
+            2070.408655314211
+          ],
+          "link": "Adventure - Liberating Underleaf#Old Maud's Hut",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Old Maud's Hut",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b4aeacbfaca",
+          "type": "default",
+          "loc": [
+            2790.2875527359406,
+            2237.2858556742362
+          ],
+          "link": "Adventure - Liberating Underleaf#Tobin's Family Home",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tobin's Family Home",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a9978c9c9a9",
+          "type": "default",
+          "loc": [
+            2371.6803382735043,
+            3552.5044686812143
+          ],
+          "link": "Adventure - Liberating Underleaf#Garrek's Room",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Garrek's Room",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_093ac9bb9a8a",
+          "type": "default",
+          "loc": [
+            2767.660135737971,
+            1572.6054813588817
+          ],
+          "link": "Adventure - Liberating Underleaf#Grocer's House",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "House",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_892bb87a48da",
+          "type": "default",
+          "loc": [
+            2837.619079278407,
+            3693.740521808609
+          ],
+          "link": "Adventure - Liberating Underleaf#Wooded Pathway",
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Wooded Pathway",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Map - Underleaf.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -145,7 +505,57 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": -2.75,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "850px",
+    "image": "[[underleaf.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[underleaf.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -2.75,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "underleaf-map",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        5293,
+        5289
+      ]
+    ],
+    "lat": 1062.5,
+    "long": 592,
+    "unit": "feet",
+    "recenter": false,
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
