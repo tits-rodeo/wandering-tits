@@ -137,12 +137,28 @@ Two threats framed differently (pursuit vs. surveillance) reinforce each other w
 - **Perception:** a single rose lies in the ash near the foundation, out of place and untouched by the fire (see the Moander rose thread — plant it, don't explain it).
 - **Survival (bias toward Mantis — her modifier should make this an easy catch for her specifically):** tracks cutting through the ash that match nothing local — gait, tread, weight all wrong. Mantis reacts, visibly, and doesn't explain why yet.
 
-Before anyone can move toward town, Iris intercepts (see Renn's Smithy).
+**Dialogue — the intercept.** Before anyone can move toward town, Iris breaks from the treeline, already talking:
+> "Wait— wait, don't! Not that way, are you— oh gods, you're actually them, aren't you? The ones from the tavern. Okay. Okay okay okay." *(glancing back toward town)* "You can't just walk in there. Come on, this way, please — before someone sees us."
+
+If pressed for who she is before moving: "I'm Iris. I run stuff for — well, for whoever's left. Just trust me for five minutes, okay?" She doesn't wait for an answer, already moving toward Renn's Smithy — she'll explain properly once they're off the road.
 
 ### Renn's Smithy
 > Cold forge, tools still racked with a dead man's care, the smell of old coal ash rather than fresh work. Nobody's fired it since Renn died. It sits just off the main road — close enough to the Burned Clearing to be a natural first stop, far enough from Hearth Hall to be safely out of patrol sightlines.
 
 Iris runs the party here rather than let them walk straight into town. This is the exposition stop: what happened while they were gone, what Ashra wants, why the resistance hasn't organized. No combat, no pressure — a short rest and a chance to actually absorb the situation before the adventure's clock starts running in earnest. From here, a quieter forest path leads to Fen's cottage instead of straight through town.
+
+**Cutscene — Iris explains.** She's out of breath but settles once the door's shut behind them. Let her lead with the essentials, then field questions in whatever order they come — this is the party's first real chance to ask.
+> "Okay. So. Big bad dragon lady — calls herself Ashra — showed up maybe three days after you all left. Didn't even really *fight* for the town. Just... took it. Said she's looking for someone. 'The dragon-blooded woman who worked at the tavern.' Didn't say a name. Didn't have to."
+>
+> "She's holed up in Hearth Hall now, guards everywhere. Says if the town doesn't hand her over, people on the Circle die. One at a time." *(a beat)* "She already did one. That's what you saw, from the ruins."
+>
+> "I don't know how long we've got. A couple days, maybe, before she does something worse. I just know we can't walk up to Hearth Hall's front door and knock."
+
+**If asked, Iris can also cover (keep answers short — she doesn't have all the details either):**
+- **The Circle:** who's still standing, who isn't — she knows names, not everything (see the Circle roster above; she doesn't yet know Old Maud is dead, only that Maud "never came back either").
+- **The resistance:** small, disorganized, hiding in the Brewery basement. "Brynn's been holding it together, but — no offense to her — nobody's really *in charge*."
+- **Ashra herself:** "Never seen her shift, but people say she's not just... a person. I believe it."
+- **Why her:** She's fast, knows the back paths, and nobody important would miss her if she got caught. She says this last part lightly, like it's a joke.
 
 ### Wooded Pathway
 > A narrow track winding away from the smithy into the trees, barely a path at all — more the absence of undergrowth than anything deliberately cut. Quiet in a way the rest of occupied Underleaf isn't; patrols don't bother with it, which is exactly why Iris sends the party this way instead of the main road. About halfway along, a loose, rock-strewn slope drops toward a dry streambed the path has to cross, and a startled-looking roost has taken up in the branches above it.
@@ -160,15 +176,45 @@ Whether the Hunter breaks off and flees or goes down fighting is a live DM call 
 
 Fen greets the party mid-tangent, already three sentences into a thought they weren't there for the start of. He's cagey but not hostile about the occupation — more worried than afraid — and sends the party off with a magic item or two "since you'll clearly need it, don't argue, I've *seen* things." (DM only: keep him alive — see Underleaf bastion plans.)
 
+**Dialogue — Fen.** He's mid-sentence before the door's even fully open, to no one in particular:
+> "—and *that's* precisely why you never trust a talking doorknob, which, mercifully, is not a concern here, so do relax. Oh! Visitors. Actual, non-doorknob visitors, how novel." *(peering at them properly for the first time)* "You'll be the tavern lot, then. Iris mentioned. Sit, sit — mind that one, it bites."
+
+If asked about the occupation: "Dreadful business, the whole — yes. I've been keeping my head down, mostly, and my wards up entirely. Can't do much about a dragon, but I can make quite sure she doesn't find me *interesting*."
+
+Sends them off: "You'll want something useful, obviously. Don't argue, I've *seen* things." *(pressing an item into someone's hands)* "Try not to lose it in a ravine this time. I don't ask how these things happen, I only notice that they do."
+
 ### Brewery
 > Hops and damp stone. Above ground it looks like business as usual, a little too quiet; below, the basement has been converted into a cramped, half-organized resistance den — cots, a map of town scratched onto a barrel head, more determination than plan. A stack of crates in the back corner hides a sealed hatch down into the tunnel — Brynn won't say who has the key.
 
-**Cutscene — the eulogy.** This is the town's *first confirmation* that Old Maud, Garrek, and Renn didn't make it — not shared grief, a reveal. Let it land without rushing to the next beat: Tobin's relief at seeing the party alive curdling once he understands who isn't with them. Brynn holds the room together. This is also where word reaches (or arrives via) Oswin, who does not take it well — see Grocer, below.
+**Crossing — the street to the Brewery.** From Fen's, the direct route back into town crosses open ground within sight of a two-person Crimson Flame patrol. A single group Stealth check (DC 13) gets everyone across unseen; a failure doesn't need to mean combat — a distraction, a bluffed excuse, or a Deception/Performance check to talk past them all work. If the party eavesdrops successfully (or the DM wants to hand out free intel), the patrol's grumbling is worth overhearing:
+> **Guard 1:** "Rations are short again. Word is the boss lady's getting impatient — another one goes up if the town doesn't cough up the dragon girl by the third day."
+> **Guard 2:** "Not our problem. Just watch the road. Extra eyes near the wizard's place tonight, apparently."
+
+That last line is a small, deliberate warning shot: Fen's cottage is on Crimson Flame's radar, even if nothing comes of it this adventure.
+
+**Cutscene — the eulogy.** This is the town's *first confirmation* that Old Maud, Garrek, and Renn didn't make it — not shared grief, a reveal. Let it land without rushing to the next beat.
+> **Tobin**, bursting up as soon as they're through the door: "You're — you're all okay! I hoped, but I didn't — " *(scanning faces, the hope draining)* "Wait. Where's... where's Maud? Renn? Garrek didn't—" *(voice dropping)* "—he's not with you either."
+
+Let the silence answer him if the party doesn't immediately explain. Brynn steps in gently rather than let it hang too long:
+> **Brynn:** "Tobin. Sit down a sec, yeah?" *(once he does, quietly, to the room)* "Gods. All three of them." *(to Tobin)* "Hey. Go easy on yourself. Ain't your fault you're the one who made it."
+
+Once the dust settles, a runner from the resistance slips out to carry word to Oswin — by the time the party reaches the Grocer, he already knows.
 
 ### Grocer
 > Underleaf's general store, shelves picked over from a town under occupation, Oswin behind the counter with a ledger open that he can't bring himself to close — Garrek's old odd-job accounts, still tallied as if there were more entries coming. A door behind the counter leads to Garrek's old room.
 
 Oswin already knows about Garrek by the time the party comes to him (word travels fast in a town this size) and he is *furious* — controlled, Gus Fring-controlled, but furious. He won't give up what he knows about the sealed tunnel under the Brewery until the party genuinely reckons with what happened, not just apologizes for form's sake. This is a conversation to actually play out, not a skill-check gate.
+
+**Cutscene — the reckoning.** He doesn't look up right away.
+> **Oswin:** "So. You're back." *(closing the ledger, slowly, deliberately)* "And Garrek isn't."
+
+Let the party respond first; his tone tracks how they handle it, not a fixed script. If they're glib, deflective, or lead with an apology that costs them nothing:
+> **Oswin:** "Don't. Don't you dare make this small for me."
+
+The turn only comes with something real — an honest account of what happened, an acknowledgment that he wasn't just an NPC's tavern buddy but Oswin's *son* in every way that mattered, a willingness to sit with the weight of it rather than move past it. When it lands:
+> **Oswin:** *(quieter, something in him giving way)* "He talked about you all, you know. After you left the first time. Kept his tab open like — " *(stops himself)* "It doesn't matter." *(a long pause)* "There's a way under the Brewery. Tunnel runs right up into his family's old cellar. I helped dig it, years back, before —" *(trails off, doesn't finish it)* "If you're going to use it, you make it count. For him."
+
+That's the unlock — see Tunnels, below.
 
 ### Garrek's Room
 > A small room at the back of the store — Oswin's doing, not the family's; he took Garrek in as an apprentice and treated him, in every way that counted, as a son. Personal effects everywhere, none of them touched since. A half-finished bit of odd-job paperwork sits on the desk exactly where he left it.
