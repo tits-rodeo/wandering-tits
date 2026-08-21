@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Wiki/Locations/Toril/Underleaf.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -170,8 +170,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "df2e5bc5257870f2",
+  "active": "30162d4d41be3988",
   "lastOpenFiles": [
+    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Map - Underleaf.md",
+    "- - -/attachments/maps/underleaf_labeled.jpg",
+    "Wiki/Locations/Toril/Underleaf.md",
+    "- - -/attachments/maps/underleaf (copy).jpg",
     "Wiki/Characters/Sword Coast/Underleaf/Tobin.md",
     "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.37515.a5e594b9c7e3",
     "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.37515.1e6f0375c8ef",
@@ -202,10 +206,7 @@
     "- - -/attachments/npcs/mireille_portrait.png",
     "- - -/attachments/npcs/oswin_portrait.png",
     "- - -/attachments/npcs/brynn_portrait.png",
-    "- - -/attachments/npcs/fen_portrait.png",
-    "- - -/attachments/npcs/skritt_portrait.png",
     "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md",
-    "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Map - Underleaf.md",
     "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md",
     "Wiki/Characters/Mantis.md",
     "Wiki/Characters/Sword Coast/Crimson Flame/Valraxis.md",
@@ -216,7 +217,6 @@
     "Wiki/Characters/Sword Coast/Crimson Flame/Lord Halvern.md",
     "Wiki/Characters/Sword Coast/Crimson Flame/Infernia.md",
     "Wiki/Characters/Sword Coast/Crimson Flame/Harka.md",
-    "Wiki/Characters/Sword Coast/Crimson Flame/Cinder.md",
     "0. DM Screen/Character Sheets/Untitled.canvas",
     "0. DM Screen/Untitled.canvas"
   ]

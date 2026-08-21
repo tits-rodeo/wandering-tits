@@ -3,7 +3,7 @@ publish: true
 tags:
   - wandering-tits
 ---
-![[underleaf.jpg]]
+![[underleaf_labeled.jpg]]
 
 Underleaf is a small waystation town on the [[Sword Coast]]'s Trade Way, sitting where the road runs alongside the southwestern eaves of the [[Misty Forest]].
 
