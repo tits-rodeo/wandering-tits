@@ -20,4 +20,4 @@ He is the sole patron to survive. He froze during the escape and would have been
 - **Trope / Character Reference:** Samwise Gamgee — earnest, loyal, braver than he looks, wants desperately to help and keep everyone together.
 - **Voice:** Eager, a little breathless, talks himself into courage out loud.
 - **Memorable Tidbit:** Immediately attaches himself to whichever party member seems kindest, and won't leave their side.
-- **Purpose:** In *[[Adventure - Liberating Underleaf|Liberating Underleaf]]*, his reunion with the party and his eulogy for the others is the town's first confirmation of what actually happened to them.
+- **Purpose:** In *[[Adventure - Liberating Underleaf|Liberating Underleaf]]*, he's been traveling with the party since the donjon and already knows what happened to the others — it's Brynn who doesn't. His telling her, on arrival at the Brewery, is the town's first confirmation of what actually happened.

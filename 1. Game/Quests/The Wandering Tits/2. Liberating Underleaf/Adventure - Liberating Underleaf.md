@@ -5,14 +5,16 @@ tags:
 ---
 # (DM Only) Brainstorm / Outline
 
-**Setup:** The party returns from *Into the Gullet* to find the Wandering Tit burned down and Underleaf occupied by the [[Crimson Flame]]. [[Ashra]] has taken over Hearth Hall and lords over the town from there, backed by a handful of cult soldiers; the rest of the occupying force holds a camp outside town and patrols the streets. [[Old Maud]], [[Garrek]], and [[Renn Vask]] died in the donjon; [[Tobin]] is the sole surviving patron. Underleaf never learned what became of them — they simply vanished when the tavern burned, and the town has no idea Old Maud is dead until the party tells them. A resistance cell holed up in the Brewery's basement is the party's base of operations.
+**Setup:** The party returns from *Into the Gullet* to find the Wandering Tit burned down and Underleaf occupied by the [[Crimson Flame]]. [[Ashra]] has taken over Hearth Hall and lords over the town from there, backed by a handful of cult soldiers; the rest of the occupying force holds a camp outside town and patrols the streets. [[Old Maud]], [[Garrek]], and [[Renn Vask]] died in the donjon; [[Tobin]] is the sole surviving patron, and has stayed with the party ever since. Underleaf never learned what became of any of them — they simply vanished when the tavern burned — so while Tobin's already grieved, the town (starting with Brynn) hasn't, and has no idea Old Maud is dead until the party (via Tobin) tells them. A resistance cell holed up in the Brewery's basement is the party's base of operations.
+
+**Movement within town:** Ordinary townsfolk can move freely around Underleaf day to day — the patrols are watching the town's edges to stop anyone leaving, not tailing every local errand (though an individual patrol can always decide to be a problem, DM's call). The party is a different matter: Crimson Flame patrols have specifically been told to watch for [[Azhura]] and anyone connected to the Wandering Tit who might be sheltering or helping her — that's the party, full stop, and it's why they can't just walk around town openly the way Iris or a resistance runner can. [[Quinsley]] is a further flag on sight: she'd have had to arrive without anyone seeing her get there, a stranger appearing out of nowhere in an occupied town. This is the practical reason the resistance (Iris, runners, etc.) handles in-town errands and messages for the party rather than the party doing it themselves.
 
 **Opening**
 1. Party arrives at the Burned Clearing (Wandering Tit ruins), sees smoke and figures in the distance — a Crimson Flame thug, archer, and fanatic (stats already built in D&D Beyond) standing around a second, closer column of smoke in the town square. At this range it just reads as figures and a fire; only later does it resolve as [[Perce Hollin|Perce]]'s pyre, the ultimatum's first execution. Perception check to notice a rose on the ground (see Moander rose thread below). Description should note wind blowing toward the Cemetery — pure foreshadowing, not meant to be pieced together yet. Also a Survival check (Mantis's is quite good — bias the DC/framing so she's the one likely to catch it) turns up tracks in the ash that don't match anything local — the first, easy-to-miss clue of the Mantis/Coronatid thread below. She reacts to it without fully explaining why yet.
 2. A resistance runner intercepts the party before they can charge in, redirects them to Renn's Smithy to talk somewhere safer.
 3. From the smithy, a forest path (the Wooded Pathway) leads to the Local Wizard — a stealthier route than the main road. Mantis's tracks from the Burned Clearing reappear here and stop, then a Coronatid bounty hunter (the "Hunter" — distinct from Task 4's watcher) makes his move at the crossing. Combat, but a quiet one is possible: every noisy action risks a Stealth check, three failures summons a patrol. Leads to a stop at Fen's to pick up a magic item or two.
 4. Crossing the street from the wizard's place to the Brewery without drawing a patrol's attention — a stealth/skill challenge.
-5. Brewery basement: reunion with [[Tobin]]. Eulogy for [[Old Maud]], [[Garrek]], and [[Renn Vask|Renn]] — this is the town's *first confirmation* of what happened to them, not shared grief with people who already knew. Lands hard, especially on the Grocer, who's furious with the party over Garrek's death (see Cast notes).
+5. Brewery basement: [[Tobin]] — who has been traveling with the party since the donjon and already knows what happened to the others — is the one who has to tell Brynn that [[Old Maud]], [[Garrek]], and [[Renn Vask|Renn]] didn't make it. This is the town's *first confirmation*, delivered by Tobin to Brynn rather than discovered by the party. Word reaches Oswin soon after, and he comes to the Brewery himself rather than wait to be found — the reckoning that unlocks the tunnel plays out there, not at his shop (see Cast notes).
 
 **Midgame — liberation checklist**
 - Smoothing things over with the Grocer is what unlocks the secret Brewery↔Grocer's House tunnel — the adventure's dungeon-crawl segment, played as a strike-force op (Mantis's spotlight scene).
@@ -131,28 +133,36 @@ Two threats framed differently (pursuit vs. surveillance) reinforce each other w
 *Ordered roughly as the party is expected to encounter them.*
 
 ### Burned Clearing
-> The Wandering Tit is gone — not looted, not abandoned, *burned*, down to blackened posts and a collapsed roofline still faintly smoking days later. Ash has drifted into every seam of the ruin. Past it, toward the town square, a second column of smoke rises — thicker, closer, and at this range unmistakably not from a building. Three figures stand around it: a knight in Crimson Flame colors, an archer keeping watch, and a robed fanatic. The wind is blowing steadily toward the Cemetery at the far end of town, carrying ash and a faint, sour-sweet rot that doesn't belong to any fire.
+> *The Wandering Tit is gone — not looted, not abandoned, burned, down to blackened posts and a collapsed roofline still faintly smoking days later. Ash has drifted into every seam of the ruin. Past it, toward the town square, a second column of smoke rises — thicker, closer, and at this range unmistakably not from a building. Three figures stand around it: an armored figure in red, an archer in deep red leathers, and one more hooded red robed figure. The wind is blowing steadily toward the Cemetery at the far end of town, carrying ash and a faint, cooked pork scent.*
 
-**Cutscene — arrival.** Play this beat non-interactively before opening the floor: the party crests the rise and the Tit is simply *gone*. Give them a moment to take in the smoke over the square — at this distance they can make out figures and colors, not faces, so exactly what's burning stays ambiguous until events reveal it as [[Perce Hollin|Perce]]'s pyre (see the Circle roster below). Let the silence sit for a second before offering checks.
-- **Perception:** a single rose lies in the ash near the foundation, out of place and untouched by the fire (see the Moander rose thread — plant it, don't explain it).
-- **Survival (bias toward Mantis — her modifier should make this an easy catch for her specifically):** tracks cutting through the ash that match nothing local — gait, tread, weight all wrong. Mantis reacts, visibly, and doesn't explain why yet.
+**Cutscene — arrival.** Play this beat non-interactively before opening the floor: The Tit is simply *gone*. Give the party a moment to take in the smoke over the square — at this distance they can make out figures and colors, not faces, so exactly what's burning stays ambiguous until events reveal it as [[Perce Hollin|Perce]]'s pyre (see the Circle roster below). Let the silence sit for a second before offering checks.
+- **Perception 10:** A single rose lies in the ash near the foundation, out of place and untouched by the fire (see the Moander rose thread — plant it, don't explain it).
+- **Perception 12** + **Survival 12:** Tracks cutting through the ash that match nothing local — gait, tread, weight all wrong. Successful survival reveals them as thri-kreen.
 
-**Dialogue — the intercept.** Before anyone can move toward town, Iris breaks from the treeline, already talking:
-> "Wait— wait, don't! Not that way, are you— oh gods, you're actually them, aren't you? The ones from the tavern. Okay. Okay okay okay." *(glancing back toward town)* "You can't just walk in there. Come on, this way, please — before someone sees us."
+**Dialogue — the intercept.** 
+> *Before anyone can move toward town, a goblin breaks from the treeline, already talking — green-skinned, wide amber eyes gone wider at the sight of them, dark hair escaping in loose curls from under a battered leather cap pinned with a brass button. Patched leathers, quick on her feet, visibly nervous:*
+> *"Wait— wait, don't! Not that way, are you— oh gods, you're actually them, aren't you? The ones from the tavern. Okay. Okay okay okay." (glancing back toward town) "You can't just walk in there. Come on, this way, please — before someone sees us."*
 
-If pressed for who she is before moving: "I'm Iris. I run stuff for — well, for whoever's left. Just trust me for five minutes, okay?" She doesn't wait for an answer, already moving toward Renn's Smithy — she'll explain properly once they're off the road.
+**If pressed for who she is before moving:** 
+> *"I'm Iris. I run stuff for — well, for whoever's left. Just trust me for five minutes, okay?" She doesn't wait for an answer, already moving toward Renn's Smithy.*
 
 ### Renn's Smithy
-> Cold forge, tools still racked with a dead man's care, the smell of old coal ash rather than fresh work. Nobody's fired it since Renn died. It sits just off the main road — close enough to the Burned Clearing to be a natural first stop, far enough from Hearth Hall to be safely out of patrol sightlines.
+> *Cold forge, tools still racked with a dead man's care, the smell of old coal ash rather than fresh work. Nobody's fired it since Renn died. It sits just off the main road — close enough to the Burned Clearing to be a natural first stop, far enough from Hearth Hall to be safely out of patrol sightlines.*
 
 Iris runs the party here rather than let them walk straight into town. This is the exposition stop: what happened while they were gone, what Ashra wants, why the resistance hasn't organized. No combat, no pressure — a short rest and a chance to actually absorb the situation before the adventure's clock starts running in earnest. From here, a quieter forest path leads to Fen's cottage instead of straight through town.
 
 **Cutscene — Iris explains.** She's out of breath but settles once the door's shut behind them. Let her lead with the essentials, then field questions in whatever order they come — this is the party's first real chance to ask.
-> "Okay. So. Big bad dragon lady — calls herself Ashra — showed up maybe three days after you all left. Didn't even really *fight* for the town. Just... took it. Said she's looking for someone. 'The dragon-blooded woman who worked at the tavern.' Didn't say a name. Didn't have to."
+> *"Okay. So. Big bad dragon lady — calls herself Ashra — showed up maybe three days after you all left. Didn't even really fight for the town. Just... took it. Said she's looking for someone. 
+> 
+> 'The dragon-blooded woman who worked at the tavern.' 
+> 
+> Didn't say a name. Didn't have to."*
 >
-> "She's holed up in Hearth Hall now, guards everywhere. Says if the town doesn't hand her over, people on the Circle die. One at a time." *(a beat)* "She already did one. That's what you saw, from the ruins."
+> *"She's holed up in Hearth Hall now, guards everywhere. Says if the town doesn't hand her over, people in the Circle die. One at a time." 
+> ...
+> "She already did one. That's what you saw, from the ruins. Poor Perce..."*
 >
-> "I don't know how long we've got. A couple days, maybe, before she does something worse. I just know we can't walk up to Hearth Hall's front door and knock."
+> *"I don't know how long we've got. A couple days, maybe, before she does something worse. I just know we can't walk up to Hearth Hall's front door and knock."*
 
 **If asked, Iris can also cover (keep answers short — she doesn't have all the details either):**
 - **The Circle:** who's still standing, who isn't — she knows names, not everything (see the Circle roster above; she doesn't yet know Old Maud is dead, only that Maud "never came back either").
@@ -161,70 +171,168 @@ Iris runs the party here rather than let them walk straight into town. This is t
 - **Why her:** She's fast, knows the back paths, and nobody important would miss her if she got caught. She says this last part lightly, like it's a joke.
 
 ### Wooded Pathway
-> A narrow track winding away from the smithy into the trees, barely a path at all — more the absence of undergrowth than anything deliberately cut. Quiet in a way the rest of occupied Underleaf isn't; patrols don't bother with it, which is exactly why Iris sends the party this way instead of the main road. About halfway along, a loose, rock-strewn slope drops toward a dry streambed the path has to cross, and a startled-looking roost has taken up in the branches above it.
+> *A narrow track winding away from the smithy into the trees, barely a path at all — more the absence of undergrowth than anything deliberately cut. Quiet in a way the rest of occupied Underleaf isn't; patrols don't bother with it, which is exactly why Iris sends the party this way instead of the main road. About halfway along, a loose, rock-strewn slope drops toward a dry streambed the path has to cross, and a startled-looking roost has taken up in the branches above it.*
 
-**Mantis's tracks reappear here — and stop.** The same off-world tracks from the Burned Clearing cut through the loose rock partway across, then simply end at the streambed's edge, with no sign of where they go from there — no climbing marks, no doubling back, nothing a Survival check can follow further. Mantis notices immediately, and this time the implication is hard to miss: whatever left them is close, and hasn't lost interest.
+**Mantis's tracks reappear here — and stop.** The same off-world tracks from the Burned Clearing cut through the loose rock partway across, then simply disappear halfway along the paht, with no sign of where they go from there — no climbing marks, no doubling back, nothing a Survival check can follow further. Mantis notices immediately, and this time the implication is hard to miss: whatever left them is close, and hasn't lost interest.
 
 **Encounter — the Hunter.** The tracks belong to a thri-kreen bounty hunter working for the Coronatid task force, and he's been closing the distance through the trees since the Burned Clearing. He makes his move here, at the crossing — ambush if the party's distracted picking a line down the slope, straight confrontation if Mantis clocks him first. He is not the same figure Skritt's sketches later expose in town (see Task 4) — a separate agent, a tracker rather than a watcher, and proof the Coronatid interest in Mantis runs deeper than one set of eyes.
+
+**If Mantis tries to talk to him.** He can't speak aloud, but telepathy 60 ft. means he *can* answer if he chooses to — tersely, coldly, giving away as little as possible. Professional, not a fanatic; not looking to die for the job, but not handing over more than he has to.
+- **"Who sent you?"**
+  > *"Doesn't matter to you. A contract. Coronatus wants its property back."*
+- **"How did you find me?"**
+  > *"You're not as hidden as you think."*
+- **"What do they want with me?"**
+  > *"Not my business. I collect. I don't ask why."*
+- **"Are there others?"**
+  > *A flicker of something — a look, a hesitation — but no answer. He won't confirm the Watcher outright; this is the natural seam where Task 4 gets planted without forcing it.*
+- **"Why not just talk first, instead of attacking?"**
+  > *"Contracts don't pay for conversation."*
 
 He fights in near-total silence — no war cries, no verbal spell components if he has any, chitin that doesn't clatter the way armor does. The danger isn't losing the fight; it's losing it *loudly*. Any action a PC takes that could plausibly carry (a shout, a clash of steel, a verbal spellcasting component, crying out from a hit, crashing through the underbrush) calls for a **Stealth check against a DC ~13-15 patrol threshold**. Track failures: **3 failed checks summons a patrol** mid-fight, turning a contained skirmish into a much worse one. Quiet options — unarmed strikes, subtle spells, a called shot to drop him fast — carry no risk and should be worth rewarding if a player thinks to use them. The rocky slope and roost from the crossing are still there as terrain: a bad step or a spooked bird can also tick the noise clock.
 
 Whether the Hunter breaks off and flees or goes down fighting is a live DM call in the moment — either keeps the thread alive without needing to force it.
 
+**If he dies or escapes before any of this comes up:** a search of the body (or the ground where he fought) turns up a Coronatid bounty marker or a rough likeness of Mantis on a scrap of hide/parchment — silent confirmation of everything above without needing him to say a word.
+
+After the fight, the party can proceed toward the Local Wizard.
+
+**If Iris is still with the party,** she steers them off the front approach at Fen's:
+> *"Not the door — 'less you want a patrol to see it open. Side window, this way. He won't mind."*
+
+
+
 ### Local Wizard
-> A cottage at the forest's edge, listing slightly, held together by cheerful stubbornness and probably a spell or two. Every surface holds something half-identified — a humming jar, a drawer that won't stay shut, a shelf of trinkets Fen "found" through means he won't quite explain. It smells like ozone and old parchment.
+> *A cottage at the forest's edge, listing slightly, held together by cheerful stubbornness and probably a spell or two. Every surface holds something half-identified — a humming jar, a drawer that won't stay shut, a shelf of trinkets Fen "found" through means he won't quite explain. It smells like ozone and old parchment.*
+> *A gnome, [[Wrinklefenderly Delimimus]], is here. Weathered and sun-worn, deep creases carved into a face framed by a wild mane of pale gold hair and beard, a pair of brass goggles shoved up onto his forehead and clearly forgotten there.*
+> *"—and that's precisely why you never trust a talking doorknob, which, mercifully, is not a concern here, so do relax. Oh! Visitors. Actual, non-doorknob visitors, how novel." 
+> (peering at them properly for the first time) 
+> "You'll be the tavern lot, then. Iris mentioned. Sit, sit — mind that one, it bites."*
 
-Fen greets the party mid-tangent, already three sentences into a thought they weren't there for the start of. He's cagey but not hostile about the occupation — more worried than afraid — and sends the party off with a magic item or two "since you'll clearly need it, don't argue, I've *seen* things." (DM only: keep him alive — see Underleaf bastion plans.)
+**If asked about the occupation:** 
+> *"Dreadful business, the whole — yes. I've been keeping my head down, mostly, and my wards up entirely. Can't do much about a dragon, but I can make quite sure she doesn't find me interesting."*
 
-**Dialogue — Fen.** He's mid-sentence before the door's even fully open, to no one in particular:
-> "—and *that's* precisely why you never trust a talking doorknob, which, mercifully, is not a concern here, so do relax. Oh! Visitors. Actual, non-doorknob visitors, how novel." *(peering at them properly for the first time)* "You'll be the tavern lot, then. Iris mentioned. Sit, sit — mind that one, it bites."
+**Sends them off:** 
+> *"You'll want something useful, obviously. Don't argue, I've seen things." (pressing two items into their hands) "Try not to lose them in a ravine this time. I don't ask how these things happen, I only notice that they do."*
 
-If asked about the occupation: "Dreadful business, the whole — yes. I've been keeping my head down, mostly, and my wards up entirely. Can't do much about a dragon, but I can make quite sure she doesn't find me *interesting*."
+He hands over a pair of [[Boots of Elvenkind]] (directly useful for the Wooded Pathway crossing, the patrol crossing below, and whatever comes after) and a pair of [[Gloves of Missile Snaring]] (a pointed counter to the Hunter's Chatkcha, if the party's paying attention).
 
-Sends them off: "You'll want something useful, obviously. Don't argue, I've *seen* things." *(pressing an item into someone's hands)* "Try not to lose it in a ravine this time. I don't ask how these things happen, I only notice that they do."
+**Outside of the shop:**
+> *Two Crimson Flame soldiers, half-watching the street: "Rations are short again. Word is the boss lady's getting impatient — another one goes up if the town doesn't cough up the dragon girl by the third day." "Not our problem. Just watch the road. Extra eyes near the wizard's place tonight, apparently."*
+
+**Crossing — the street to the Brewery.** A single group **Stealth check (DC 13)** gets everyone across unseen past a Crimson Flame patrol; a failure doesn't need to mean combat — a distraction, a bluffed excuse, or Deception/Performance to talk past them all work.
+
 
 ### Brewery
-> Hops and damp stone. Above ground it looks like business as usual, a little too quiet; below, the basement has been converted into a cramped, half-organized resistance den — cots, a map of town scratched onto a barrel head, more determination than plan. A stack of crates in the back corner hides a sealed hatch down into the tunnel — Brynn won't say who has the key.
+> *Casks stacked along the walls, the smell of hops thick in the air, a couple of regulars nursing drinks like nothing's changed.*
+> *[[Brynn Thatcher]] — a water genasi, teal-skinned, curly turquoise hair tucked under a white kerchief, sleeves rolled over an apron — spots the party before they're two steps past the door and doesn't so much greet them as intercept them, quiet and quick.*
+> *"Not out here." 
+> She's already moving toward a door behind the bar.
+> "Downstairs. Now."*
 
-**Crossing — the street to the Brewery.** From Fen's, the direct route back into town crosses open ground within sight of a two-person Crimson Flame patrol. A single group Stealth check (DC 13) gets everyone across unseen; a failure doesn't need to mean combat — a distraction, a bluffed excuse, or a Deception/Performance check to talk past them all work. If the party eavesdrops successfully (or the DM wants to hand out free intel), the patrol's grumbling is worth overhearing:
-> **Guard 1:** "Rations are short again. Word is the boss lady's getting impatient — another one goes up if the town doesn't cough up the dragon girl by the third day."
-> **Guard 2:** "Not our problem. Just watch the road. Extra eyes near the wizard's place tonight, apparently."
+**If the party lingers to chat with the regulars before following her down:**
+- **An old dwarf at the end of the bar**, nursing the same mug too long. Gruff, resigned rather than scared.
+  > *"Dragon lady, guards, curfew — same tune every occupation, different verse. Just keep your heads down and it passes, usually."*
+- **A younger human near the door**, jumpy, won't hold eye contact. Deflects fast:
+  > *"I don't — I really don't know anything, alright? Just having a drink."*
 
-That last line is a small, deliberate warning shot: Fen's cottage is on Crimson Flame's radar, even if nothing comes of it this adventure.
+**Entering the basement:**
+> *Below, a different world — cramped, cots along one wall, a map of town scratched onto a barrel head, more determination than plan. A stack of crates in the back corner hides a sealed hatch down into the tunnel — Brynn won't say who has the key.*
 
-**Cutscene — the eulogy.** This is the town's *first confirmation* that Old Maud, Garrek, and Renn didn't make it — not shared grief, a reveal. Let it land without rushing to the next beat.
-> **Tobin**, bursting up as soon as they're through the door: "You're — you're all okay! I hoped, but I didn't — " *(scanning faces, the hope draining)* "Wait. Where's... where's Maud? Renn? Garrek didn't—" *(voice dropping)* "—he's not with you either."
+**Cutscene — the news.** [[Tobin]] has been traveling with the party since they left the donjon — he already knows what happened to Old Maud, Garrek, and Renn. Brynn doesn't. This is *her* first confirmation, not the party's, and not his either — he's had to sit with it the whole way here.
+> *Brynn's face lights up at the sight of him — round-faced and freckled, blond curls, big ears — already looking past him for the others: "Tobin! Thank the — " (searching the doorway behind them) "Maud? Is she—"*
+> *The silence, and the party's faces, stop her mid-sentence.*
+> *Tobin, quiet, worn down from having already had to say this once before: "She didn't make it, Brynn. None of them did. Maud, Renn, Garrek — I'm the only one who..."* *(can't finish it)*
+> *Brynn sits down hard, a hand over her mouth. A long silence. "Gods." (quietly) "All three of them."*
+> *Nobody moves to fill the silence, until Tobin does. He wipes his face, sits up a little straighter than he has all day. 
+> "Can I— I want to say something. About them." He looks around the room, halfling earnestness breaking through the exhaustion. "I don't know if there's gonna be time to do this properly, with everything that's happening. So I want to say it now. While we're all here. Our departed friends deserve a few parting words. We can't let them be forgotten."*
+> 
+> *"Old Maud... Maud used to save me the burnt end of the bread. Said it built character. She'd tell you it was because nobody else wanted it, but I caught her doing it on purpose more than once. She kept a mending basket with her everywhere — everywhere — like she thought somebody's sleeve might need fixing mid-crisis. And you know what? She usually was right. She fixed mine once, while — " (voice catching) "— while a lot of terrible things were happening, right around us. Didn't even ask. Just started sewing like it was the most normal thing in the world. Called everybody 'dear' or 'love,' didn't matter if you were twice her size or three days old. I think she made this whole town feel like somebody's kid. Like somebody was keeping an eye out. I don't know how we're supposed to feel safe without that anymore."*
+> 
+> *"And poor Garrek, the gentle soul. Garrek carried a lute case he couldn't play. Everybody knew it. Nobody said anything, because — because he was the gentlest thing I ever met, and you don't laugh at gentle things. You just don't. He apologized for taking up space. Him! Biggest fella in three towns, apologizing for existing. He was gonna ask Trixie for lessons — that night, actually. The night everything —"* *(stops)* *"He never got to ask her. She doesn't even know that yet, I don't think. Somebody's gonna have to tell her too. He died carrying her. Carrying her to safety, and he didn't make it out of that corridor, and I keep thinking — if I'd been faster, if I'd —"* *(can't finish, shakes his head)* *"Oswin took him in like a son. An actual son couldn't have been loved more. I hope he knows that. I hope he knows Garrek knew it too."*
+> 
+> *"And then there's, uh, Renn. Um... look — I know Renn wasn't easy to love. Cocky, mean sometimes, picked fights he had no business picking. Cheated at dice with that stupid die of his and thought nobody noticed."* *(a small, broken laugh)* *"But he never once let anybody actually get hurt in that bar. Not really. All that posturing, and the second things got real, he was the first one on his feet. He died provoking something he had no business provoking, because that's who he was, right to the end — too stubborn to just run. I don't know if that's brave or just Renn being Renn. Maybe there wasn't a difference, for him. He'd probably tell me to shut up and stop crying about it."* *(wiping his face)* *"So — sorry, Renn. Can't help it."*
+> 
+> *"They didn't get graves. They didn't get a proper goodbye — they just vanished, and this town didn't even know to grieve them yet. So I guess this is it. This is the funeral. I'm sorry it's not more than this. I'm sorry it's just... me, saying it, in a basement."* *(a long pause)* *"But I saw all three of them go. I was there. And I'm not gonna let them just disappear like none of it happened. So. That's what I wanted to say."*
+>
+> *(a long silence, until Brynn's the one to break it, gently)* *"...Okay. Okay. Sit. Let's get you all settled."*
 
-Let the silence answer him if the party doesn't immediately explain. Brynn steps in gently rather than let it hang too long:
-> **Brynn:** "Tobin. Sit down a sec, yeah?" *(once he does, quietly, to the room)* "Gods. All three of them." *(to Tobin)* "Hey. Go easy on yourself. Ain't your fault you're the one who made it."
+Word doesn't take long to reach him — [[Iris Bellwether|Iris]] herself carries it if she's still with the party, otherwise another resistance runner — and Oswin makes his own way over rather than wait to be found.
 
-Once the dust settles, a runner from the resistance slips out to carry word to Oswin — by the time the party reaches the Grocer, he already knows.
+**Cutscene — the reckoning.**
+> *He doesn't look up right away when he arrives — a tiefling, dark curling horns swept back, hair slicked close, thin wire-rimmed glasses fogged despite the basement chill. His hands aren't quite steady on the ledger he brought with him, though his voice is holding, barely, through sheer will. "So. You're back." He closes the ledger slowly, deliberately, like the act itself costs something) "And Garrek isn't. Explain yourselves. Explain to me WHY my boy isn't here!*
+
+Oswin won't give up what he knows about the sealed tunnel until the party genuinely reckons with what happened, not just apologizes for form's sake. This is a conversation to actually play out, not a skill-check gate — expect the party to try several approaches before they land on one that works, and let each get a real reaction rather than a shrug toward the "right" answer.
+
+**If the party is glib, deflective, or leads with an apology that costs them nothing:**
+> *"Don't. Don't you dare make this small for me."*
+
+**If the party gets defensive — "there was nothing we could do," "it wasn't our fault":**
+> *(flat, cold, not raising his voice — which is worse) "I didn't ask whose fault it was. I asked where my son is."*
+
+**If the party reaches for a platitude — "he's in a better place," "he wouldn't want you to grieve like this":**
+> *(something sharp cutting through the control) "Don't you dare tell me how to grieve him. You knew him for a season. I knew him since he was small enough to hide behind that counter. You don't get to tell me what he'd want."*
+
+**If the party gives an honest, general account — owning what happened, acknowledging he was Oswin's son in every way that mattered:**
+> *(quieter, something in him giving way, but still holding something back) "He talked about you all, you know. After you left the first time. Kept his tab open like — " (stops himself) "It doesn't matter."*
+
+When Oswin is sufficiently angry or emotional, he leaves to go back to his store. This leaves the party not quite knowing what to do.
 
 ### Grocer
-> Underleaf's general store, shelves picked over from a town under occupation, Oswin behind the counter with a ledger open that he can't bring himself to close — Garrek's old odd-job accounts, still tallied as if there were more entries coming. A door behind the counter leads to Garrek's old room.
+> Underleaf's general store, shelves picked over from a town under occupation. A ledger sits open on the counter that nobody's touched — Garrek's old odd-job accounts, still tallied as if there were more entries coming. A door behind the counter leads to Garrek's old room.
 
-Oswin already knows about Garrek by the time the party comes to him (word travels fast in a town this size) and he is *furious* — controlled, Gus Fring-controlled, but furious. He won't give up what he knows about the sealed tunnel under the Brewery until the party genuinely reckons with what happened, not just apologizes for form's sake. This is a conversation to actually play out, not a skill-check gate.
+**If the party specifically tells Oswin how Garrek died — that he was carrying Trixie to safety, that he didn't leave her behind — and gives a heartfelt apology, this is the real unlock, and worth letting land harder than the general version above:**
+> *(the control finally breaks — not loudly, worse than loudly: quiet, and total) "He was carrying someone." 
+> (a long breath) 
+> "Of course he was. Of course that's what he was doing." 
+> He wipes his glasses, doesn't put them back on right away. 
+> "That's — that sounds like him. That sounds exactly like him."*
 
-**Cutscene — the reckoning.** He doesn't look up right away.
-> **Oswin:** "So. You're back." *(closing the ledger, slowly, deliberately)* "And Garrek isn't."
+**Either honest branch gets him to the unlock — the second, if the party reaches it, deserves a beat longer before he continues:**
+> *"There's a way under the Brewery. Tunnel runs right up into the old wine cellar under my house. I helped dig it, years back, before —" 
+> He trails off, doesn't finish.
+> "There's a lute still under my counter. I never — " 
+> He stops himself again, shakes his head. He pulls out a key.
+> "If you're going to use that tunnel, you make it count. For him. Give this to Brynn. She'll know what to do."*
 
-Let the party respond first; his tone tracks how they handle it, not a fixed script. If they're glib, deflective, or lead with an apology that costs them nothing:
-> **Oswin:** "Don't. Don't you dare make this small for me."
+Back at the Brewery, Brynn looks at the key knowingly, nods, and begins moving some shelves and barrels around in the basement to reveal a small door, painted to look much like the stone walls around it. She inserts the key, and reveals the tunnel Oswin mentioned.
 
-The turn only comes with something real — an honest account of what happened, an acknowledgment that he wasn't just an NPC's tavern buddy but Oswin's *son* in every way that mattered, a willingness to sit with the weight of it rather than move past it. When it lands:
-> **Oswin:** *(quieter, something in him giving way)* "He talked about you all, you know. After you left the first time. Kept his tab open like — " *(stops himself)* "It doesn't matter." *(a long pause)* "There's a way under the Brewery. Tunnel runs right up into his family's old cellar. I helped dig it, years back, before —" *(trails off, doesn't finish it)* "If you're going to use it, you make it count. For him."
-
-That's the unlock — see Tunnels, below.
 
 ### Garrek's Room
-> A small room at the back of the store — Oswin's doing, not the family's; he took Garrek in as an apprentice and treated him, in every way that counted, as a son. Personal effects everywhere, none of them touched since. A half-finished bit of odd-job paperwork sits on the desk exactly where he left it.
+> *A small room at the back of the store — Oswin's doing, not the family's; he took Garrek in as an apprentice and treated him, in every way that counted, as a son. Personal effects everywhere, none of them touched since. A half-finished bit of odd-job paperwork sits on the desk exactly where he left it.*
 
-Nothing mechanical needs to happen here — the room is the point. If the party lingers, this is a good place for Oswin's grief to crack all the way through, away from the shop and its customers.
+The notes are an attempt at musical composition. [[Trixie]] can decipher the notation, and while it's really rough, she can probably make out what he was trying for. Underneath a doodled cat with a lute slung over its shoulder, he'd titled it "Stray Cat Strut" — his own, unfinished, clearly written with her in mind (whether he ever meant to let her see it is a good open question to leave hanging).
 
-### Tunnels
+> *Gray and gold tabaxi sittin' on a wall*  
+> *Ain't got no coin, but she don't care at all*  
+> *She's flat broke, but she don't care*  
+> *She struts right by with her tail in the air*
+> 
+> *Stray cat strut, she's a feline queen*  
+> *She's the wildest cat that you've ever seen*  
+> *Gets a shoe thrown at her by a surly old man*  
+> *Gets her dinner from a merchant's food stand*
+> 
+> *She don't bother chasin' mice around*
+> *She prowls down the alley lookin' for a fight*  
+> *Clawin' at the moonlight on a hot summer night*  
+> *Singin' her song while the tavern cats cry*  
+> *"That wild tabaxi, she's a real gone fly!"*
+> 
+> *She wishes she could always be carefree and wild*  
+> *But she's got cat class*  
+> *And she's got cat style!*
+
+Nothing mechanical needs to happen here — the room is the point, if the party thinks to visit it.
+
+---
+
+## Tunnels (WIP)
 > Dirt-walled and cramped, dug in a hurry a long time ago and shored up since — the passage runs underground from the Brewery's hidden hatch to a second one beneath Garrek's family home, staying well clear of anything Crimson Flame patrols above.
 
 This is the adventure's dungeon-crawl segment, unlocked once Oswin's given up what he knows: a tight strike-force op through the tunnel toward Grocer's House, played for tension rather than a straight brawl — Mantis's spotlight scene, tactically led rather than background muscle.
+
+---
 
 ### Grocer's House
 > What used to be Garrek's family home, now sitting just inside Crimson Flame's perimeter — which is exactly why the tunnel underneath has stayed secret this long. The tunnel crawl ends here, coming up through a cellar hatch into whatever the strike force finds waiting above.
@@ -311,18 +419,18 @@ Not tied to any specific scene — kept in reserve as a flexible location to fil
 - **[[Perce Hollin]]:** Human Circle member and caravan master; already dead by the time the party arrives — Ashra's first example.
 - **[[Vantha Emberlight]]:** Dragonborn Circle member and ex-soldier; at risk of execution on Day 2 sundown.
 - **[[Iris Bellwether]]:** Goblin resistance runner; intercepts the party at the Burned Clearing.
-- **[[Old Maud]], [[Tobin]], [[Garrek]], [[Renn Vask]]:** Tavern patrons from *Into the Gullet*. Tobin is the sole survivor; the others died there, unknown to Underleaf until the party's return.
+- **[[Old Maud]], [[Tobin]], [[Garrek]], [[Renn Vask]]:** Tavern patrons from *Into the Gullet*. Tobin is the sole survivor and has traveled with the party since; the others died there, unknown to Underleaf until Tobin tells Brynn at the Brewery.
 
 ---
 ## Location Index
 
 - **Burned Clearing:** Ruins of the Wandering Tit; opening scene, rose and Mantis's tracks.
 - **Renn's Smithy:** Cold forge just off the road; breather stop and exposition via Iris.
-- **Wooded Pathway:** Quiet forest track from the smithy to Fen's cottage; Mantis's tracks reappear and stop, then the Hunter attacks — near-silent combat, noisy actions risk drawing a patrol.
+- **Wooded Pathway:** Quiet forest track from the sBack at ·mithy to Fen's cottage; Mantis's tracks reappear and stop, then the Hunter attacks — near-silent combat, noisy actions risk drawing a patrol.
 - **Local Wizard:** Fen's cottage in the woods; magic item pickup.
 - **Brewery:** Brynn's brewery and resistance basement; the eulogy, hidden tunnel hatch.
-- **Grocer:** Oswin's store; reckoning that unlocks the tunnel.
-- **Garrek's Room:** Back room of the Grocer; Garrek's untouched effects.
+- **Grocer:** Oswin's store; optional — his reckoning scene actually happens at the Brewery. Here in case the party visits anyway.
+- **Garrek's Room:** Back room of the Grocer; Garrek's untouched effects, optional visit.
 - **Tunnels:** Runs from the Brewery to Grocer's House; the dungeon-crawl strike op, Mantis's spotlight.
 - **Grocer's House:** Garrek's family home, now inside Crimson Flame's perimeter; tunnel's far end.
 - **Crimson Flame Camp:** Occupying force's staging camp; Task 1, straight combat.
