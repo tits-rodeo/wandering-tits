@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronicles/Quinsley's Diary/1. Into the Gullet.md",
+                "file": "Chronicles/Azhura's Journal/2. Liberating Underleaf.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Into the Gullet"
+              "title": "2. Liberating Underleaf"
             }
           }
         ]
@@ -170,8 +170,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "df2e5bc5257870f2",
+  "active": "7949782139f9becc",
   "lastOpenFiles": [
+    "Chronicles/Azhura's Journal/1. Into the Gullet.md",
+    "Chronicles/Azhura's Journal/2. Liberating Underleaf.md",
+    "Chronicles/Quinsley's Diary/1. Into the Gullet.md",
     "Chronicles/Mantis' Journal/1. Into the Gullet.md",
     "Wiki/Magic Items/Boots of Elvenkind.md",
     "Wiki/Magic Items/Gloves of Missile Snaring.md",
@@ -179,7 +182,6 @@
     "Wiki/Magic Items/Bag of Holding.md",
     "Wiki/Magic Items/Canister of Endless Meat Tenderizer.md",
     "1. Game/Quests/The Wandering Tits/1. Into the Gullet/Adventure - Into the Gullet.md",
-    "Chronicles/Quinsley's Diary/1. Into the Gullet.md",
     "Chronicles/Mantis' Journal",
     "TImeline/Quinsley's Diary/1. Entry 1.md.tmp.9414.eae2b20ccf29",
     "TImeline/Quinsley's Diary/1. Entry 1.md.tmp.9414.84d084cae698",
@@ -191,7 +193,6 @@
     "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md",
     "Wiki/Characters/Sword Coast/Underleaf/Iris Bellwether.md",
     "Wiki/Magic Items/Trixie's Lute.md",
-    "Chronicles/Azhura's Journal/1. Into the Gullet.md",
     "1. Game/Quests/The Wandering Tits/2. Liberating Underleaf/Adventure - Liberating Underleaf.md.tmp.37515.d2a6fbf3c113",
     "Wiki/Magic Items/Gloves of Missile Snaring.md.tmp.37515.1e6726c25e58",
     "Wiki/Magic Items/Boots of Elvenkind.md.tmp.37515.1d46aa8d190e",
@@ -212,7 +213,6 @@
     "- - -/attachments/npcs/renn_portrait.png",
     "Wiki/Characters/Sword Coast/Underleaf/Wrinklefenderly Delimimus.md",
     "Wiki/Characters/Sword Coast/Underleaf/Vantha Emberlight.md",
-    "Wiki/Characters/Sword Coast/Underleaf/Skritt Emberquill.md",
     "- - -/attachments/npcs/thornwick.png",
     "- - -/attachments/npcs/tobin_portrait.png",
     "- - -/attachments/npcs/mireille_portrait.png",
