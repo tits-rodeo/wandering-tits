@@ -14,6 +14,8 @@ tags:
 ## Background
 A sharp-eyed tiefling shopkeeper who runs Underleaf's general store, ledger perpetually in hand. Years ago he took in [[Garrek]] as an apprentice and, in every way that mattered, a son — gave him work and a room in the back of the shop. He sits on Underleaf's Circle, the town's rotating governing body.
 
+## (DM Only) The Dark of It
+
 Garrek died in the donjon during the events of *[[Adventure - Into the Gullet|Into the Gullet]]*, though Oswin didn't know it until the party returned. He still keeps Garrek's old odd-job ledger open on the counter, unable to close it out.
 
 ## (DM Only) Personality (Roleplay Notes)

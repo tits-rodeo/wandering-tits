@@ -31,7 +31,7 @@ tags:
 Ashra's occupation isn't random pillaging — it's leverage to smoke out [[Azhura]], the sister she's actually hunting. Her ultimatum to the town: hand over the dragon-blooded woman who worked at the Wandering Tit, or members of Underleaf's Circle (the rotating 7-person body that governs the town — see [[Underleaf]]) die one by one until she is.
 
 The Circle, current seats:
-1. **[[Old Maud]]** — deceased (*Into the Gullet*); her seat hasn't been refilled, no time given everything since. The town doesn't yet know she's dead — see Setup above.
+1. **[[Old Maud]]** — The town doesn't yet know she's dead — see Setup above.
 2. **[[Tok Tok]]** — survives the whole adventure; his voice at the end is what formally hands the party the town (see Underleaf bastion plans).
 3. **[[Oswin Marrow]]** (Grocer)
 4. **[[Brynn Thatcher]]** (Brewer)
@@ -135,9 +135,9 @@ Two threats framed differently (pursuit vs. surveillance) reinforce each other w
 ### Burned Clearing
 > *The Wandering Tit is gone — not looted, not abandoned, burned, down to blackened posts and a collapsed roofline still faintly smoking days later. Ash has drifted into every seam of the ruin. Past it, toward the town square, a second column of smoke rises — thicker, closer, and at this range unmistakably not from a building. Three figures stand around it: an armored figure in red, an archer in deep red leathers, and one more hooded red robed figure. The wind is blowing steadily toward the Cemetery at the far end of town, carrying ash and a faint, cooked pork scent.*
 
-**Cutscene — arrival.** Play this beat non-interactively before opening the floor: The Tit is simply *gone*. Give the party a moment to take in the smoke over the square — at this distance they can make out figures and colors, not faces, so exactly what's burning stays ambiguous until events reveal it as [[Perce Hollin|Perce]]'s pyre (see the Circle roster below). Let the silence sit for a second before offering checks.
-- **Perception 10:** A single rose lies in the ash near the foundation, out of place and untouched by the fire (see the Moander rose thread — plant it, don't explain it).
-- **Perception 12** + **Survival 12:** Tracks cutting through the ash that match nothing local — gait, tread, weight all wrong. Successful survival reveals them as thri-kreen.
+**Cutscene — arrival.** Play non-interactively before opening the floor. Give the party a moment on the smoke over the square, at this distance just figures and color, not faces (later revealed as [[Perce Hollin|Perce]]'s pyre).
+- **Perception 10:** A single rose lies in the ash near the foundation, untouched by the fire.
+- **Perception 12** + **Survival 12:** Tracks cutting through the ash that match nothing local. Successful Survival reveals them as thri-kreen.
 
 **Dialogue — the intercept.** 
 > *Before anyone can move toward town, a goblin breaks from the treeline, already talking — green-skinned, wide amber eyes gone wider at the sight of them, dark hair escaping in loose curls from under a battered leather cap pinned with a brass button. Patched leathers, quick on her feet, visibly nervous:*
@@ -149,9 +149,9 @@ Two threats framed differently (pursuit vs. surveillance) reinforce each other w
 ### Renn's Smithy
 > *Cold forge, tools still racked with a dead man's care, the smell of old coal ash rather than fresh work. Nobody's fired it since Renn died. It sits just off the main road — close enough to the Burned Clearing to be a natural first stop, far enough from Hearth Hall to be safely out of patrol sightlines.*
 
-Iris runs the party here rather than let them walk straight into town. This is the exposition stop: what happened while they were gone, what Ashra wants, why the resistance hasn't organized. No combat, no pressure — a short rest and a chance to actually absorb the situation before the adventure's clock starts running in earnest. From here, a quieter forest path leads to Fen's cottage instead of straight through town.
+Iris brings the party here rather than into town. No combat, a short rest and a briefing. A quieter forest path from here leads to Fen's cottage instead of the main road.
 
-**Cutscene — Iris explains.** She's out of breath but settles once the door's shut behind them. Let her lead with the essentials, then field questions in whatever order they come — this is the party's first real chance to ask.
+**Cutscene — Iris explains.** She's out of breath but settles once the door's shut. Let her lead with the essentials, then field questions in whatever order they come.
 > *"Okay. So. Big bad dragon lady — calls herself Ashra — showed up maybe three days after you all left. Didn't even really fight for the town. Just... took it. Said she's looking for someone. 
 > 
 > 'The dragon-blooded woman who worked at the tavern.' 
@@ -165,19 +165,19 @@ Iris runs the party here rather than let them walk straight into town. This is t
 > *"I don't know how long we've got. A couple days, maybe, before she does something worse. I just know we can't walk up to Hearth Hall's front door and knock."*
 
 **If asked, Iris can also cover (keep answers short — she doesn't have all the details either):**
-- **The Circle:** who's still standing, who isn't — she knows names, not everything (see the Circle roster above; she doesn't yet know Old Maud is dead, only that Maud "never came back either").
+- **The Circle:** who's still standing, who isn't (she doesn't yet know Old Maud is dead, only that Maud "never came back either").
 - **The resistance:** small, disorganized, hiding in the Brewery basement. "Brynn's been holding it together, but — no offense to her — nobody's really *in charge*."
 - **Ashra herself:** "Never seen her shift, but people say she's not just... a person. I believe it."
 - **Why her:** She's fast, knows the back paths, and nobody important would miss her if she got caught. She says this last part lightly, like it's a joke.
 
 ### Wooded Pathway
-> *A narrow track winding away from the smithy into the trees, barely a path at all — more the absence of undergrowth than anything deliberately cut. Quiet in a way the rest of occupied Underleaf isn't; patrols don't bother with it, which is exactly why Iris sends the party this way instead of the main road. About halfway along, a loose, rock-strewn slope drops toward a dry streambed the path has to cross, and a startled-looking roost has taken up in the branches above it.*
+> *A narrow track winding away from the smithy into the trees, barely a path at all — more the absence of undergrowth than anything deliberately cut. Quiet in a way the rest of occupied Underleaf isn't; patrols don't bother with it. About halfway along, a loose, rock-strewn slope drops toward a dry streambed the path has to cross, and a startled-looking roost has taken up in the branches above it.*
 
-**Mantis's tracks reappear here — and stop.** The same off-world tracks from the Burned Clearing cut through the loose rock partway across, then simply disappear halfway along the paht, with no sign of where they go from there — no climbing marks, no doubling back, nothing a Survival check can follow further. Mantis notices immediately, and this time the implication is hard to miss: whatever left them is close, and hasn't lost interest.
+**Mantis's tracks reappear here, and stop.** The same off-world tracks from the Burned Clearing cut through the loose rock partway across, then disappear, no climbing marks, no doubling back, nothing a Survival check can follow further.
 
-**Encounter — the Hunter.** The tracks belong to a thri-kreen bounty hunter working for the Coronatid task force, and he's been closing the distance through the trees since the Burned Clearing. He makes his move here, at the crossing — ambush if the party's distracted picking a line down the slope, straight confrontation if Mantis clocks him first. He is not the same figure Skritt's sketches later expose in town (see Task 4) — a separate agent, a tracker rather than a watcher, and proof the Coronatid interest in Mantis runs deeper than one set of eyes.
+**Encounter — the Hunter.** A thri-kreen bounty hunter working for the Coronatid task force, closing the distance since the Burned Clearing. Makes his move here at the crossing (ambush if the party's distracted, straight confrontation if Mantis clocks him first). Distinct from the Watcher exposed in Task 4.
 
-**If Mantis tries to talk to him.** He can't speak aloud, but telepathy 60 ft. means he *can* answer if he chooses to — tersely, coldly, giving away as little as possible. Professional, not a fanatic; not looking to die for the job, but not handing over more than he has to.
+**If Mantis tries to talk to him.** He can't speak aloud, but telepathy 60 ft. lets him answer if he chooses to — tersely, coldly, giving away as little as possible.
 - **"Who sent you?"**
   > *"Doesn't matter to you. A contract. Coronatus wants its property back."*
 - **"How did you find me?"**
@@ -185,22 +185,18 @@ Iris runs the party here rather than let them walk straight into town. This is t
 - **"What do they want with me?"**
   > *"Not my business. I collect. I don't ask why."*
 - **"Are there others?"**
-  > *A flicker of something — a look, a hesitation — but no answer. He won't confirm the Watcher outright; this is the natural seam where Task 4 gets planted without forcing it.*
+  > *A flicker of something — a look, a hesitation — but no answer.*
 - **"Why not just talk first, instead of attacking?"**
   > *"Contracts don't pay for conversation."*
 
-He fights in near-total silence — no war cries, no verbal spell components if he has any, chitin that doesn't clatter the way armor does. The danger isn't losing the fight; it's losing it *loudly*. Any action a PC takes that could plausibly carry (a shout, a clash of steel, a verbal spellcasting component, crying out from a hit, crashing through the underbrush) calls for a **Stealth check against a DC ~13-15 patrol threshold**. Track failures: **3 failed checks summons a patrol** mid-fight, turning a contained skirmish into a much worse one. Quiet options — unarmed strikes, subtle spells, a called shot to drop him fast — carry no risk and should be worth rewarding if a player thinks to use them. The rocky slope and roost from the crossing are still there as terrain: a bad step or a spooked bird can also tick the noise clock.
+He fights in near-total silence, no war cries, chitin that doesn't clatter the way armor does. Any action a PC takes that could plausibly carry (a shout, a clash of steel, a verbal spellcasting component, crying out from a hit, crashing through the underbrush) calls for a **Stealth check against a DC ~13-15 patrol threshold**. **3 failed checks summons a patrol** mid-fight. Quiet options — unarmed strikes, subtle spells, a called shot — carry no risk. The rocky slope and roost are also live terrain: a bad step or spooked bird can tick the noise clock too.
 
-Whether the Hunter breaks off and flees or goes down fighting is a live DM call in the moment — either keeps the thread alive without needing to force it.
-
-**If he dies or escapes before any of this comes up:** a search of the body (or the ground where he fought) turns up a Coronatid bounty marker or a rough likeness of Mantis on a scrap of hide/parchment — silent confirmation of everything above without needing him to say a word.
+Whether the Hunter flees or falls is a DM call in the moment. If he dies or escapes before any of the dialogue above comes up, a search of the body (or the fight site) turns up a Coronatid bounty marker or a rough likeness of Mantis on a scrap of hide/parchment.
 
 After the fight, the party can proceed toward the Local Wizard.
 
 **If Iris is still with the party,** she steers them off the front approach at Fen's:
 > *"Not the door — 'less you want a patrol to see it open. Side window, this way. He won't mind."*
-
-
 
 ### Local Wizard
 > *A cottage at the forest's edge, listing slightly, held together by cheerful stubbornness and probably a spell or two. Every surface holds something half-identified — a humming jar, a drawer that won't stay shut, a shelf of trinkets Fen "found" through means he won't quite explain. It smells like ozone and old parchment.*
@@ -215,13 +211,12 @@ After the fight, the party can proceed toward the Local Wizard.
 **Sends them off:** 
 > *"You'll want something useful, obviously. Don't argue, I've seen things." (pressing two items into their hands) "Try not to lose them in a ravine this time. I don't ask how these things happen, I only notice that they do."*
 
-He hands over a pair of [[Boots of Elvenkind]] (directly useful for the Wooded Pathway crossing, the patrol crossing below, and whatever comes after) and a pair of [[Gloves of Missile Snaring]] (a pointed counter to the Hunter's Chatkcha, if the party's paying attention).
+He hands over a pair of [[Boots of Elvenkind]] (useful for the stealth crossings ahead) and a pair of [[Gloves of Missile Snaring]] (counters the Hunter's chatkcha).
 
 **Outside of the shop:**
 > *Two Crimson Flame soldiers, half-watching the street: "Rations are short again. Word is the boss lady's getting impatient — another one goes up if the town doesn't cough up the dragon girl by the third day." "Not our problem. Just watch the road. Extra eyes near the wizard's place tonight, apparently."*
 
-**Crossing — the street to the Brewery.** A single group **Stealth check (DC 13)** gets everyone across unseen past a Crimson Flame patrol; a failure doesn't need to mean combat — a distraction, a bluffed excuse, or Deception/Performance to talk past them all work.
-
+**Crossing — the street to the Brewery.** A single group **Stealth check (DC 13)** gets everyone across unseen; a failure doesn't need to mean combat — a distraction, a bluffed excuse, or Deception/Performance to talk past them all work.
 
 ### Brewery
 > *Casks stacked along the walls, the smell of hops thick in the air, a couple of regulars nursing drinks like nothing's changed.*
@@ -239,7 +234,7 @@ He hands over a pair of [[Boots of Elvenkind]] (directly useful for the Wooded P
 **Entering the basement:**
 > *Below, a different world — cramped, cots along one wall, a map of town scratched onto a barrel head, more determination than plan. A stack of crates in the back corner hides a sealed hatch down into the tunnel — Brynn won't say who has the key.*
 
-**Cutscene — the news.** [[Tobin]] has been traveling with the party since they left the donjon — he already knows what happened to Old Maud, Garrek, and Renn. Brynn doesn't. This is *her* first confirmation, not the party's, and not his either — he's had to sit with it the whole way here.
+**Cutscene — the news.** [[Tobin]] already knows what happened to Old Maud, Garrek, and Renn. Brynn doesn't; this is her first confirmation.
 > *Brynn's face lights up at the sight of him — round-faced and freckled, blond curls, big ears — already looking past him for the others: "Tobin! Thank the — " (searching the doorway behind them) "Maud? Is she—"*
 > *The silence, and the party's faces, stop her mid-sentence.*
 > *Tobin, quiet, worn down from having already had to say this once before: "She didn't make it, Brynn. None of them did. Maud, Renn, Garrek — I'm the only one who..."* *(can't finish it)*
@@ -257,12 +252,12 @@ He hands over a pair of [[Boots of Elvenkind]] (directly useful for the Wooded P
 >
 > *(a long silence, until Brynn's the one to break it, gently)* *"...Okay. Okay. Sit. Let's get you all settled."*
 
-Word doesn't take long to reach him — [[Iris Bellwether|Iris]] herself carries it if she's still with the party, otherwise another resistance runner — and Oswin makes his own way over rather than wait to be found.
+- Word reaches Oswin soon after — [[Iris Bellwether|Iris]] carries it if she's still with the party, otherwise another runner — and he comes to the Brewery himself.
 
 **Cutscene — the reckoning.**
 > *He doesn't look up right away when he arrives — a tiefling, dark curling horns swept back, hair slicked close, thin wire-rimmed glasses fogged despite the basement chill. His hands aren't quite steady on the ledger he brought with him, though his voice is holding, barely, through sheer will. "So. You're back." He closes the ledger slowly, deliberately, like the act itself costs something) "And Garrek isn't. Explain yourselves. Explain to me WHY my boy isn't here!*
 
-Oswin won't give up what he knows about the sealed tunnel until the party genuinely reckons with what happened, not just apologizes for form's sake. This is a conversation to actually play out, not a skill-check gate — expect the party to try several approaches before they land on one that works, and let each get a real reaction rather than a shrug toward the "right" answer.
+- Oswin won't give up what he knows about the tunnel until the party genuinely reckons with what happened to Garrek, not an apology for form's sake.
 
 **If the party is glib, deflective, or leads with an apology that costs them nothing:**
 > *"Don't. Don't you dare make this small for me."*
@@ -276,7 +271,7 @@ Oswin won't give up what he knows about the sealed tunnel until the party genuin
 **If the party gives an honest, general account — owning what happened, acknowledging he was Oswin's son in every way that mattered:**
 > *(quieter, something in him giving way, but still holding something back) "He talked about you all, you know. After you left the first time. Kept his tab open like — " (stops himself) "It doesn't matter."*
 
-When Oswin is sufficiently angry or emotional, he leaves to go back to his store. This leaves the party not quite knowing what to do.
+When Oswin is sufficiently angry or emotional, he leaves for his store.
 
 ### Grocer
 > Underleaf's general store, shelves picked over from a town under occupation. A ledger sits open on the counter that nobody's touched — Garrek's old odd-job accounts, still tallied as if there were more entries coming. A door behind the counter leads to Garrek's old room.
@@ -288,20 +283,19 @@ When Oswin is sufficiently angry or emotional, he leaves to go back to his store
 > He wipes his glasses, doesn't put them back on right away. 
 > "That's — that sounds like him. That sounds exactly like him."*
 
-**Either honest branch gets him to the unlock — the second, if the party reaches it, deserves a beat longer before he continues:**
+**Either honest branch gets him to the unlock:**
 > *"There's a way under the Brewery. Tunnel runs right up into the old wine cellar under my house. I helped dig it, years back, before —" 
 > He trails off, doesn't finish.
 > "There's a lute still under my counter. I never — " 
 > He stops himself again, shakes his head. He pulls out a key.
 > "If you're going to use that tunnel, you make it count. For him. Give this to Brynn. She'll know what to do."*
 
-Back at the Brewery, Brynn looks at the key knowingly, nods, and begins moving some shelves and barrels around in the basement to reveal a small door, painted to look much like the stone walls around it. She inserts the key, and reveals the tunnel Oswin mentioned.
-
+- Back at the Brewery, Brynn takes the key, moves some shelves and barrels aside, and reveals a small hidden door.
 
 ### Garrek's Room
 > *A small room at the back of the store — Oswin's doing, not the family's; he took Garrek in as an apprentice and treated him, in every way that counted, as a son. Personal effects everywhere, none of them touched since. A half-finished bit of odd-job paperwork sits on the desk exactly where he left it.*
 
-The notes are an attempt at musical composition. [[Trixie]] can decipher the notation, and while it's really rough, she can probably make out what he was trying for. Underneath a doodled cat with a lute slung over its shoulder, he'd titled it "Stray Cat Strut" — his own, unfinished, clearly written with her in mind (whether he ever meant to let her see it is a good open question to leave hanging).
+- [[Trixie]] can decipher the notes as an attempt at musical composition, rough but recognizable. Underneath a doodled cat with a lute, it's titled "Stray Cat Strut," written with her in mind.
 
 > *Gray and gold tabaxi sittin' on a wall*  
 > *Ain't got no coin, but she don't care at all*  
@@ -323,79 +317,159 @@ The notes are an attempt at musical composition. [[Trixie]] can decipher the not
 > *But she's got cat class*  
 > *And she's got cat style!*
 
-Nothing mechanical needs to happen here — the room is the point, if the party thinks to visit it.
-
 ---
 
 ## Tunnels (WIP)
-> Dirt-walled and cramped, dug in a hurry a long time ago and shored up since — the passage runs underground from the Brewery's hidden hatch to a second one beneath Garrek's family home, staying well clear of anything Crimson Flame patrols above.
+- The dungeon-crawl segment, unlocked once Oswin's given up what he knows: a tight strike-force op through the tunnel to Grocer's House. Good spotlight moment for Mantis to lead.
 
-This is the adventure's dungeon-crawl segment, unlocked once Oswin's given up what he knows: a tight strike-force op through the tunnel toward Grocer's House, played for tension rather than a straight brawl — Mantis's spotlight scene, tactically led rather than background muscle.
+### Brewery Basement
+> Past the sealed hatch, the air changes first — cooler, staler, the hop-and-yeast smell of the brewery above giving way to packed earth. The tunnel proper begins here: a narrow dirt-walled passage branching almost immediately, one way climbing north, the other sloping down and west into the dark.
+
+- **North:** climbs to a hidden exit in the forest, near the burned clearing close to Renn's Smithy. The Children's Shelter (below) sits partway along this branch.
+- **South:** leads to the Sick Bay and the tunnel nexus.
+
+### Sick Bay
+> The passage opens into a low, cramped room. Bundles of herb, long since gone to dust, still hang from pegs driven into the support beams. Bandage-wrappings, brittle and yellowed, are stacked on a shelf nobody's touched in a generation. Cots line the far wall, blankets rotted through where they lie. Whatever this room was built for, it hasn't been used for its purpose in a very long time. Three other passages lead on from here into the dark.
+
+- Nothing here has been disturbed in decades. [[Oswin Marrow|Oswin]] is the only living person who knows this network exists, and grief over Garrek has kept him from doing anything with that knowledge, beyond telling the resistance to keep their heads down and wait, until the party resolves things with him.
+- **North:** a cave-in, then Maud's Resistance Cache.
+- **Northwest:** a hidden exit near the Cemetary.
+- **West:** the Grocer's Wine Cellar.
+- **Treasure:** 3 [[Potion of Healing|Potions of Healing]], sealed and waxed, still good despite the age. A cracked but salvageable healer's kit. 40 gp in old coin, tucked under a cot.
+
+**Encounter — nest disturbed.** Easy. Six stirges have roosted in the rafters, drawn over the years by whatever's left of the old bloodstains. They wake and dive the moment anyone starts moving things around (searching the shelf, checking the cots, etc.).
+- **6 stirges** (CR 1/8 each). They attack in a scattered swarm rather than as a group, latching onto whoever's nearest and draining blood until killed or shaken off.
+- Low individual HP, no real threat to the party at level 4, but there are enough of them that a round or two can feel chaotic before they're all down.
+
+### Children's Shelter
+> The north branch narrows to a dead end, barely large enough for a handful of people to sit shoulder to shoulder. Faded chalk marks still score the walls at child height, half-formed letters, a crude drawing of something with too many legs to be a dog. In the back corner, where a support beam gave way long ago, a battered ceremonial helm lies half-buried in the collapsed earth. Beside it, small stones have been stacked and arranged with obvious care, not scattered, placed.
+
+This is where the old resistance hid its children, [[Oswin Marrow]] among them, while the fighting happened elsewhere, and where [[Tobias Keth]] made his last stand to keep it that way. The stones are a memorial the Underfoot raised for him afterward. His cursed ceremonial helm (see *[[The Underfoot]]*) rests here. If [[Quinsley]] puts it on, run the cutscene below.
+
+**Cutscene — the last stand.** The moment the helm settles over her head, the vision doesn't ease in.
+
+> *It slams into her all at once, and she staggers, catching herself against the tunnel wall before her eyes even focus on what she's seeing.
+> She's not herself. She's behind a fallen support beam in a passage that's older, rougher, barely shored up at all. Her breath (his breath) comes ragged, one hand pressed to a wound already soaking through. Behind him, pressed into the dark where the tunnel narrows, a handful of children sit frozen and silent. One of them, small and wide-eyed, is unmistakably a young [[Oswin Marrow]].*
+>
+> *Boots, out past the beam. Getting closer. He checks the children over his shoulder once, doesn't say anything, doesn't need to. He rises to meet it.*
+>
+> *[[Neronvain]] leads them in, and it isn't a fight so much as a delay. Tobias lands one solid strike, staggers a second attacker, but there are more of them than he has left in him. He doesn't step back. He doesn't let them past.*
+>
+> *"If you're seeing this... it already happened. Nothing you do here changes it. Just, don't let it happen twice."*
+>
+> *Neronvain closes the last distance himself. As the blow lands, Tobias's eyes lift, just for a second, and find hers. Deliberate. Aware. Like he always knew someone would be standing where she's standing now.*
+>
+> *And then it's gone. Quinsley's back on the tunnel floor, helm still in her hands, breath coming as hard as if the fight had been hers.*
+
+The line above is delivered strangely, not quite aimed at anyone in the memory itself, and neither Quinsley nor the party is meant to fully understand it in the moment. It's a thread, not an answer.
+
+**Encounter — bled through.** Medium. The instant the vision ends and Quinsley's back in her own body, a **shadow demon** (CR 4) tears loose from the same darkness the memory came from, the curse's violence given a shape rather than just a feeling.
+- Incorporeal, flies, can turn invisible in dim light or darkness (the tunnel qualifies) except when it attacks.
+- Melee attack drains Strength on a hit; a creature reduced to 0 Strength by it dies.
+- Resistant to nonmagical bludgeoning/piercing/slashing damage, vulnerable to radiant.
+- It has no interest in retreating or negotiating. It fights until destroyed, then is simply gone, nothing left to loot or examine afterward.
+
+**Treasure:** Tucked into a gap behind a loose stone, a child's carved wooden bird (unmagical, no resale value, a roleplay hook if shown to Oswin) and a small leather purse: 25 gp and a single [[Potion of Healing]], left "just in case" and never needed.
+
+### Cave-in
+> The passage narrows sharply, then stops. Where the tunnel should continue, the ceiling has come down instead, earth and broken timber piled floor to roof in a jumble that swallows the lantern light rather than reflecting it. A support beam juts out at an angle, half-buried, still bearing the weight of whatever hasn't come down yet. Somewhere on the other side, faint and cold, a draft moves.
+
+- **Mechanics:** DC 13 Strength (Athletics) to clear enough of the rubble to squeeze through without bringing the rest down. On a failure, the beam shifts, roll again — a second failure drops more of the ceiling, dealing 2d6 bludgeoning damage to whoever's digging and forcing a fresh attempt.
+- A character who stops to look rather than dig (DC 13 Investigation) notices the collapse is old, not fresh, and that it's confined to this one stretch; nothing else nearby looks structurally at risk.
+- This is the same collapse Maud's own hatch drops her cache behind — from this side, it's the only thing standing between the tunnel network and a cache she's always assumed was hers alone.
+
+### Maud's Resistance Cache
+> Past the cave-in, the passage opens into a narrow chamber. Racks and crates line the walls: pitted blades gone dull with age, cracked leather armor stiff as bark, a shield with the paint long flaked away. In front of all of it, newer gear is stacked neatly on top, oiled and cared for, like someone's been quietly adding to a stockpile they think is entirely their own. A ladder at the back climbs into darkness, toward a hatch under a rug.
+
+- The old stock is Underfoot-era, decades old. The newer stock is Maud's own, tying this directly to Task 5 (Old Maud's Hut) above ground. She's only ever known this as a private cache under her own floor, not part of a wider tunnel network; the cave-in has kept it that way.
+- Good spot for a quiet character beat if the party's connected the two Mauds by now (Old Maud the current Circle member, and her role in the Underfoot generations back).
+- **Treasure:** Among the old racks, one shortsword stands out, well-balanced despite its age, a stylized bare footprint etched into the crossguard — a **+1 shortsword**, the Underfoot's own make. From Maud's newer stock: 2 more [[Potion of Healing|Potions of Healing]], a few days' rations, and 60 gp in coin.
+- **Mundane arms:** the bulk of the old stock, pitted but serviceable, enough to actually arm a resistance rather than dress one up:
+	- 6 shortswords, 4 spears, 2 handaxes, a scattering of daggers (8).
+	- 5 sets of leather armor, stiff but wearable, and 3 shields, paint long since flaked off.
+	- A shortbow with a cracked stave (unusable as-is, but a Woodcarver's Tools check or a trip to Fen could restore it) and a half-empty case of 12 arrows.
+	- None of this is enchanted, and it's not the party's to keep — it's what arms the Brewery resistance once the tunnel's reopened.
+
+### Grocer's Wine Cellar
+> The passage ends at a set of wine racks built into the tunnel wall, most of the bottles long since gone to vinegar, corks crumbled to nothing. A ladder climbs from here into darkness, toward a trapdoor overhead. Muffled sound filters down from above, footsteps, voices, the ordinary business of a house that isn't ordinary anymore.
+
+- Endpoint of the strike-force op. Surfacing here puts the party inside Crimson Flame's perimeter (see Grocer's House).
+- **Treasure:** 3 bottles somehow still drinkable, worth 15 gp apiece to the right buyer. Behind a loose rack, a small strongbox: 80 gp and a ledger page in a coded hand, a list of names, none matching anyone currently in Underleaf. Old Underfoot supporters, if anyone can crack it.
 
 ---
 
 ### Grocer's House
-> What used to be Garrek's family home, now sitting just inside Crimson Flame's perimeter — which is exactly why the tunnel underneath has stayed secret this long. The tunnel crawl ends here, coming up through a cellar hatch into whatever the strike force finds waiting above.
+> What used to be Garrek's family home, now inside Crimson Flame's perimeter. The tunnel crawl ends here, up through a cellar hatch into whatever's waiting above.
 
 ### Crimson Flame Camp
-> A hastily fortified staging camp outside town proper — tents, a picket line, a banner bearing the Crimson Flame's sigil planted a little too triumphantly for an occupation barely a few days old. This is where reinforcements and supply would come from if the party doesn't move first.
+> A hastily fortified staging camp outside town proper — tents, a picket line, a Crimson Flame banner planted a little too triumphantly for an occupation barely a few days old.
 
-**Task 1 — straight combat.** No real subtlety on offer here; this is the checklist's fight-first option. Clearing it cuts Ashra off from resupply and reinforcement before either reaches town.
+**Task 1 — straight combat.** Clearing it cuts Ashra off from resupply and reinforcement before either reaches town.
 
 ### Carriage
-> Parked near the Cemetery, wheels sunk slightly into the earth as if it's been there longer than anyone remembers arriving. Mismatched shawls curtain the windows; inside, it's warmer and stranger than it has any right to be. Mireille doesn't so much greet visitors as already seem to be mid-conversation with them.
+> Parked near the Cemetery, wheels sunk slightly into the earth as if it's been there longer than anyone remembers arriving. Mismatched shawls curtain the windows; inside, it's warmer and stranger than it has any right to be.
 
-**Task 2 — social/trust.** Mireille is wary of both occupiers and the party at first. Earning her trust (evading a patrol on her behalf, vouching for her to a suspicious neighbor, whatever the table generates) nets a reading with real tactical value for the Hearth Hall finale — guard rotations, a tell for when Ashra shifts to dragon form.
+**Task 2 — social/trust.** Mireille is wary of both occupiers and the party at first. Earning her trust (evading a patrol on her behalf, vouching for her, etc.) nets a reading with tactical value for the finale: guard rotations, a tell for when Ashra shifts to dragon form.
 
 ### Tobin's Family Home
-> Tobin's house, checkpoint now — a Crimson Flame lookout post commandeering what used to be a family's front room, sightlines cleared through the windows, a patrol rotation anchored on it. Tobin's things are still inside, shoved aside rather than removed.
+> Tobin's house, checkpoint now — a Crimson Flame lookout post, sightlines cleared through the windows, a patrol rotation anchored on it. Tobin's things are still inside, shoved aside rather than removed.
 
-**Task 3 — combat.** Personal stakes for Tobin, who may want to come along if the party lets him. Clearing it removes a patrol chokepoint and opens safer movement through the rest of town for everything that follows.
+**Task 3 — combat.** Personal stakes for Tobin, who may want to come along. Clearing it removes a patrol chokepoint.
 
 ### Local Artist
-> Skritt's studio — every wall covered floor to ceiling in portraits and sketches, most of Underleaf's population rendered at some point or another, pinned up in no particular order. It smells like ink and turpentine, and Skritt narrates his own working process out loud whether or not anyone's listening.
+> Skritt's studio — every wall covered floor to ceiling in portraits and sketches, most of Underleaf's population rendered at some point or another. Smells like ink and turpentine.
 
-**Task 4 — puzzle/social.** Going through his reference sketches with him turns up a "spot the difference": a face in the margins and backgrounds of several *different* pieces, on different days, matching no one who actually lives in Underleaf — not an imposter standing in for someone familiar, a stranger who plain doesn't belong in any of the drawings. Confronting them reveals a Coronatid scout who's been watching the town, hunting Mantis specifically (see the Mantis/Coronatid thread) — real, table-visible proof, not just implication. Whether the scout flees wounded or goes down fighting and leaves proof behind is a live DM call.
+**Task 4 — puzzle/social.** Going through his reference sketches turns up a "spot the difference": a face in the margins/backgrounds of several different pieces, on different days, matching no one who lives in Underleaf. Confronting them reveals a Coronatid scout hunting Mantis. Whether the scout flees wounded or goes down fighting and leaves proof behind is a live DM call.
 
 ### Old Maud's Hut
-> Small, plain, and — it turns out — not nearly as undefended as it looks. Maud never talked about it, but she'd quietly stockpiled supplies and weapons here "just in case," and just-in-case has arrived.
+> Small, plain, and not nearly as undefended as it looks. Maud quietly stockpiled supplies and weapons here "just in case."
 
-**Task 5 — combat/stealth race.** A looting patrol may already be closing in on the cache; getting there first (by force or by stealth) arms the resistance for the final stand. A good spot for a quiet character beat on Maud herself, now that the town's had time to sit with the news.
+- One of the resistance tunnel exits leads here, a hatch under an old rug.
+
+**Task 5 — combat/stealth race.** A looting patrol may already be closing in; getting there first (force or stealth) arms the resistance for the final stand. Good spot for a quiet character beat on Maud.
 
 ### Cemetary
 > Old headstones, older than the town's current occupation problems, wind pulling steadily through it toward nothing in particular — until it isn't nothing. A faint, sour-sweet smell clings to the ground here worse than anywhere else in town, and no one's quite placed why.
 
-Purely a foreshadowing location until the climax: this is where the blight-corrupted spawn erupt from during Phase 3 of the Ashra fight (see the Moander rose thread). A perceptive party might notice something's wrong here earlier if they think to visit — the DM can seed a smaller warning sign on an earlier pass, at their discretion.
+This is where the blight-corrupted spawn erupt during Phase 3 of the Ashra fight. A perceptive party visiting earlier might notice something's wrong; DM's discretion on seeding a smaller warning sign.
 
 ### Hearth Hall - Common House
-> The public face of Ashra's occupation — what used to be the town's meeting hall, now a strongpoint. Furniture cleared out or broken down for barricades, a couple of cult soldiers posted at all times, the room built to be crossed under fire rather than lingered in.
+> The public face of Ashra's occupation — what used to be the town's meeting hall, now a strongpoint. Furniture cleared out or broken down for barricades, a couple of cult soldiers posted at all times.
 
-First room the party fights (or talks) through during the Hearth Hall climax — sets the tone before Ashra herself is even in sight.
+First room of the Hearth Hall climax, before Ashra herself is in sight.
 
 ### Hearth Hall - Armory
-> Where Crimson Flame keeps its gear staged — weapon racks, a few crates of matériel hauled in from the camp outside. Picked over by whoever's on duty, not by design.
+> Where Crimson Flame keeps its gear staged — weapon racks, a few crates of matériel from the camp outside. Picked over, not by design.
 
-A resource room more than a set piece — worth a look if the party has time to search it during the climax push, less worth lingering in if the clock is tight.
+Worth a look if the party has time during the climax push, skippable if the clock is tight.
 
 ### Hearth Hall - Meeting Chamber
-> The Circle's old chamber, repurposed — the long table still stands, but Ashra's claimed the head of it. This is closer to where negotiation *could* happen than where it actually will.
+> The Circle's old chamber, repurposed — the long table still stands, but Ashra's claimed the head of it.
 
-Good staging ground for any dialogue beat with Ashra before Phase 1 turns hostile, if the party tries talking first.
+Staging ground for any dialogue beat with Ashra before Phase 1 turns hostile.
 
 ### Hearth Hall - Office
-> Cramped, paper-choked, previously whichever Circle member handled the town's actual administration. Now rifled through — Ashra or her people have clearly been looking for something here, records concerning Azhura most likely.
+> Cramped, paper-choked, previously whichever Circle member handled the town's actual administration. Now rifled through — Ashra or her people have clearly been looking for something here.
 
-A good place to drop a physical clue tying Ashra's search back to Azhura specifically, if the party wants confirmation beyond what they already know.
+Good place to drop a physical clue tying Ashra's search to Azhura.
 
 ### Hearth Hall - Rookery
-> Message birds, mostly gone now — cages open, a couple of stragglers left. Whatever Ashra's been sending out, it's been going out from here.
+> Message birds, mostly gone now — cages open, a couple of stragglers left.
 
-Minor location; useful if the party wants to intercept or fake outgoing correspondence, otherwise mostly texture.
+Minor location; useful if the party wants to intercept or fake outgoing correspondence.
 
 ### House
 > An unremarkable home near the edge of town, sheltering another family of outcasts with no particular connection to the main plot.
 
-Not tied to any specific scene — kept in reserve as a flexible location to fill in on the fly if the session needs a house that isn't already spoken for (an extra hiding spot, an ambush site, somewhere for a minor NPC to live), rather than a plot thread of its own.
+Kept in reserve — a flexible location (extra hiding spot, ambush site, a minor NPC's home) if the session needs one.
+
+---
+## (DM Only) Local Knowledge — Tyranny of Dragons
+If the party asks around town about the Cult of the Dragon or Tiamat, this is common knowledge for anyone reasonably informed (traders, the Circle, anyone who's traveled), not a secret. See *[[The Attempted Return of Tiamat]]* for the full account.
+
+A decade or so back, the Cult of the Dragon under a Wyrmspeaker named Severin Silrajin spent months amassing a stolen hoard vast enough to buy Tiamat's return from the Nine Hells, opening with a raid on the border town of Greenest and ending when a band of adventurers seized or destroyed the hoard at Skyreach Castle, a flying fortress in the North. That didn't end the threat. The Cult regrouped, and the Council of Waterdeep, a coalition of the Sword Coast's major factions, waged an open war against it: hunting down the Cult's regional Wyrmspeakers, courting the metallic dragons as allies, and racing to stop the Cult from completing the five-piece Mask of the Dragon Queen and sounding an ancient relic called the Draakhorn to rally chromatic dragons to Tiamat's cause.
+
+It came to a head at the Well of Dragons, where the Cult raised Tiamat's temple out of the earth and tried to complete the summoning ritual in full view of an assembled army. Tiamat did break through, if only briefly, and devoured her own high priest and his allies before the same adventurers who broke the Cult's hoard managed to weaken and banish her back to Avernus. Most folk take it as settled history now: the world had a very close call, dragons rose up on both sides of it, and the Dragon Queen herself was pushed back into her prison rather than defeated for good.
 
 ---
 ## Treasure
@@ -426,12 +500,18 @@ Not tied to any specific scene — kept in reserve as a flexible location to fil
 
 - **Burned Clearing:** Ruins of the Wandering Tit; opening scene, rose and Mantis's tracks.
 - **Renn's Smithy:** Cold forge just off the road; breather stop and exposition via Iris.
-- **Wooded Pathway:** Quiet forest track from the sBack at ·mithy to Fen's cottage; Mantis's tracks reappear and stop, then the Hunter attacks — near-silent combat, noisy actions risk drawing a patrol.
+- **Wooded Pathway:** Quiet forest track from the Smithy to Fen's cottage; Mantis's tracks reappear and stop, then the Hunter attacks — near-silent combat, noisy actions risk drawing a patrol.
 - **Local Wizard:** Fen's cottage in the woods; magic item pickup.
 - **Brewery:** Brynn's brewery and resistance basement; the eulogy, hidden tunnel hatch.
 - **Grocer:** Oswin's store; optional — his reckoning scene actually happens at the Brewery. Here in case the party visits anyway.
 - **Garrek's Room:** Back room of the Grocer; Garrek's untouched effects, optional visit.
 - **Tunnels:** Runs from the Brewery to Grocer's House; the dungeon-crawl strike op, Mantis's spotlight.
+	- **Brewery Basement:** Tunnel trailhead; forks north (Children's Shelter) and west (Sick Bay/nexus).
+	- **Sick Bay:** Tunnel nexus; forks north (Maud's Cache), northwest (Cemetary exit), west (Grocer's Wine Cellar).
+	- **Children's Shelter:** Dead-end off the north branch; Tobias Keth's helm and memorial, the last-stand cutscene.
+	- **Cave-in:** North of the nexus; blocked passage, DC 13 Athletics to clear.
+	- **Maud's Resistance Cache:** Past the cave-in; old Underfoot stock plus Maud's own, surfaces in Old Maud's Hut.
+	- **Grocer's Wine Cellar:** West of the nexus; tunnel's far end, surfaces in Grocer's House.
 - **Grocer's House:** Garrek's family home, now inside Crimson Flame's perimeter; tunnel's far end.
 - **Crimson Flame Camp:** Occupying force's staging camp; Task 1, straight combat.
 - **Carriage:** Mireille's parked home near the Cemetery; Task 2, her reading.
