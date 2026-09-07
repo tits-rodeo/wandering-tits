@@ -1,3 +1,8 @@
+---
+publish: true
+tags:
+  - planar-pathfinders
+---
 Undine orcs often go through life in a series of shifting phases, their interests waxing, waning, or sometimes morphing altogether as old loves are discarded for new interests. Structure provides a much-needed focus to undines' lives, and without strong goals or support from those around them, undine orcs can find themselves stagnating in feelings of despondence. Most undine orcs feel they personify specific aspects of water, some seeing themselves with the strength and power of the waves, the speed and tenacity of a river current, or the calm of a peaceful lake or pond. Others identify with all these aspects and more, their demeanors shifting like the tides from one situation to the next.
 
 - **Age.** Undine orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.

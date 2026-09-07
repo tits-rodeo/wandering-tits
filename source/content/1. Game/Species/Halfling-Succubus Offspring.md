@@ -1,3 +1,8 @@
+---
+publish: true
+tags:
+  - planar-pathfinders
+---
 The offspring of a union between a Halfling and a Succubus.
 
 - **Age.** Halfling/Succubus offspring reach adulthood at the age of 20 and generally live into the middle of their second century.

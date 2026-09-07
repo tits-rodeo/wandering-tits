@@ -118,7 +118,7 @@
     },
     {
       "id": "underleaf-map",
-      "lastAccessed": 1787294971075,
+      "lastAccessed": 1788803590193,
       "markers": [
         {
           "id": "ID_99ba29f96a49",
@@ -465,6 +465,41 @@
           "command": false,
           "percent": null,
           "description": "Wooded Pathway",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a28d88a3ac8",
+          "type": "default",
+          "loc": [
+            3034.574952786895,
+            175.44651761294685
+          ],
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.03317196400320417,
+            -0.5733185249928009
+          ],
+          "description": "Resistance Tunnel Exit",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9acbc8198878",
+          "type": "default",
+          "loc": [
+            4026.8948587568398,
+            3666.7589726032747
+          ],
+          "layer": "%5B%5Bunderleaf.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Resistance Tunnel Exit",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
