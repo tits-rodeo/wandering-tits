@@ -3,7 +3,11 @@ publish: true
 tags:
   - wandering-tits
 ---
-Created by the Cat Lord - a divine being of the Upper Planes - to blend the qualities of humanoids and cats, tabaxi are a varied people in both attitude and appearance. In some lands, tabaxi live like the cats they resemble, naturally curious and at home in playful environments. In other places, tabaxi live as other folk do, not exhibiting the feline behavior the Cat Lord intended. Tabaxi's appearance is as varied as their attitudes. Some tabaxi have features or patterning in their fur like tigers, jaguars, or other big cats, while others have appearances more like a house cat. Still others have unique patterns or might style their fur to their preferences- or might even be hairless!
+Offspring of tabaxi and other humanoids, half-tabaxi (or quarter-tabaxi) predominantly inherit most of traits from their tabaxi parent's dominant genes, but also show some addition aspects of their non-tabaxi parent. For example, full-blooded tabaxi very rarely have head hair or extra facial hair in addition to their fur, but this is not at all unheard of in tabaxi of mixed heritage.
+
+Visual traits of the tabxi parentage are as varied as their attitudes. Some half-tabaxi have features or patterning in their fur like tigers, jaguars, or other big cats, while others have appearances more like a house cat. Still others have unique patterns or might style their fur to their preferences—or might even be hairless!
+
+However, half-tabaxi's also inherit some visual traits of their non-tabaxi parents, perhaps exhibiting more a human-like face, or the larger build of an orc or goliath.
 
 ## Half-Tabaxi Traits
 As a tabaxi, you have the following racial traits.
