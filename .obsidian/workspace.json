@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronicles/Quinsley's Diary/1. Into the Gullet.md",
+                "file": "Wiki/Magic Items/Quinsley's Amulet.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Into the Gullet"
+              "title": "Quinsley's Amulet"
             }
           }
         ]
@@ -174,8 +174,10 @@
   },
   "active": "1e63537e154d982b",
   "lastOpenFiles": [
-    "Chronicles/Quinsley's Diary/2. Liberating Underleaf.md",
+    "Wiki/Magic Items/Mantis' Amulet.md",
+    "Wiki/Magic Items/Amulet of Bahamut.md",
     "Chronicles/Quinsley's Diary/1. Into the Gullet.md",
+    "Chronicles/Quinsley's Diary/2. Liberating Underleaf.md",
     "Wiki/Magic Items/Gloves of Missile Snaring.md",
     "Wiki/Magic Items/The Dragonbane Refrain.md",
     "Wiki/Magic Items/Boots of Elvenkind.md",
@@ -210,8 +212,6 @@
     "- - -/attachments/maps/underleaf-tunnels.jpg",
     "- - -/templates/map.md",
     "- - -/attachments/maps/underleaf.jpg",
-    "Wiki/Characters/Sword Coast/Underleaf/Neronvain.md",
-    "Wiki/Characters/Sword Coast/Underleaf/Wrinklefenderly Delimimus.md",
     "- - -/attachments/maps/underleaf_labeled.jpg",
     "- - -/attachments/maps/underleaf (copy).jpg",
     "- - -/attachments/npcs/garrek_portrait.png",
