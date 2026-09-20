@@ -20,4 +20,4 @@ He died there, corrupted and consumed alongside [[Old Maud]], the two of them wa
 - **Trope / Character Reference:** Biff Tannen from *Back to the Future* — a bully who's used to being the biggest threat in the room and hasn't learned otherwise yet.
 - **Voice:** Sneering, confrontational, postures even when it's clearly a bad idea.
 - **Memorable Tidbit:** Picked a fight with something in the donjon he had no business provoking. Always carried a **Charlatan's Die** he used to cheat at dice.
-- **Purpose:** The one unlikeable death in *Into the Gullet* — one the party might feel less bad about, for contrast against the others. In *[[Adventure - Liberating Underleaf|Liberating Underleaf]]*, his empty smithy becomes the resistance's first safe meeting point precisely because no one's stepped in to run it since.
+- **Purpose:** The one unlikeable death in *Into the Gullet* — one the party might feel less bad about, for contrast against the others. In *[[1. Adventure - Underleaf|Liberating Underleaf]]*, his empty smithy becomes the resistance's first safe meeting point precisely because no one's stepped in to run it since.

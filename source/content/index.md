@@ -1,7 +1,8 @@
 ---
-title: Welcome to the Wandering Tits Wiki!
+title: Campaign Wiki
 publish: true
 tags:
   - wandering-tits
+  - planar-pathfinders
 ---
-Welcome to the Wandering Tits Wiki
+Welcome to the Wiki!

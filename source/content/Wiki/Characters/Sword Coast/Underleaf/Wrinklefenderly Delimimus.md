@@ -22,4 +22,4 @@ Most of his hoard isn't looted — it's found, via divination-adjacent means he'
 - **Voice:** Distracted, mutters mid-sentence, answers the question he wishes you'd asked rather than the one you did.
 - **Memorable Tidbit:** Permanently squinting at something only he can see.
 - **Home:** A cluttered cottage at the forest's edge, reachable by a quiet forest path from [[Renn Vask]]'s smithy.
-- **Purpose:** In *[[Adventure - Liberating Underleaf|Liberating Underleaf]]*, he supplies the party a magic item or two early on. (DM only: not meant to die in this adventure — the DM intends to eventually give the party Underleaf itself as a bastion, and an abjurer is a valuable long-term ally for defending it.)
+- **Purpose:** In *[[1. Adventure - Underleaf|Liberating Underleaf]]*, he supplies the party a magic item or two early on. (DM only: not meant to die in this adventure — the DM intends to eventually give the party Underleaf itself as a bastion, and an abjurer is a valuable long-term ally for defending it.)

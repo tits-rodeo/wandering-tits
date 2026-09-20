@@ -19,4 +19,4 @@ Runs Underleaf's brewery, sleeves always rolled up, damp-skinned and smelling fa
 - **Voice:** Direct, a little rueful, prone to trailing off when she admits how out of her depth she is.
 - **Memorable Tidbit:** Will say out loud, unprompted, "none of us actually know what we're doing" — and mean it as an invitation for someone else to take the lead.
 - **Home:** Runs the Brewery; its basement is the resistance's base of operations.
-- **Purpose:** In *[[Adventure - Liberating Underleaf|Liberating Underleaf]]*, she's the host, not the leader — the resistance is disorganized precisely because no one's stepped up. That's the party's job now.
+- **Purpose:** In *[[1. Adventure - Underleaf|Liberating Underleaf]]*, she's the host, not the leader — the resistance is disorganized precisely because no one's stepped up. That's the party's job now.

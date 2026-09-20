@@ -14,6 +14,10 @@ The clan runs on a feudal structure layered directly onto draconic pride:
 - **Subjects and serfs** — aligned commoners beneath any rank, and non-aligned mortal populations kept under direct, largely unprotected control.
 - **Livestock and war stock** — drakes, wyverns, and animalistic monsters, with no standing of their own.
 
+## (DM Only) Shapeshifting
+
+True shapeshifting into humanoid form is a real abnormality for chromatic dragons, and it isn't free. An adult red dragon capable of holding human form permanently forfeits its 1/day Fireball.
+
 ## (DM Only) Economy and war
 Mines, forges, and taxation from lower nobles form the clan's productive base, but Skaerth deliberately caps tribute so the kingdom always stays ready for war. Most dragon nobles build their own personal wealth through raids and dungeon-delving rather than domestic extraction — plunder that channels draconic aggression outward instead of into infighting. Skaerth prefers intimidation, proxies, and targeted raids to full-scale war, which is costly and rarely as profitable.
 
