@@ -13,7 +13,7 @@ tags:
 >**Race**|Gnome|
 
 ## Background
-An ancient gnome wizard living in a cluttered cottage at the edge of the woods near Underleaf, robes hung with half-identified trinkets. One of the many children of the legendary wizard Gostelnizdoc "Doc" Delimimus — each of Doc's children took up a different school of magic, but all of them specialize in creating magic items (see [[Damroodleboss Delimimus|his brother "Boss"]], of Sigil). Fen's school is Abjuration.
+Wrinklefenderly Delimimus, an ancient gnome wizard living in a cluttered cottage at the edge of the woods near Underleaf, robes hung with half-identified trinkets. One of the many children of the legendary wizard Gostelnizdoc "Doc" Delimimus — each of Doc's children took up a different school of magic, but all of them specialize in creating magic items (see [[Damroodleboss Delimimus|his brother "Boss"]], of Sigil). Fen's school is Abjuration.
 
 Most of his hoard isn't looted — it's found, via divination-adjacent means he's cagey about explaining, and he's never bothered to identify half of it.
 
