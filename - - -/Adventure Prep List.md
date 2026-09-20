@@ -1,15 +1,15 @@
-- [x]  Review the characters
-- [x]  Create a strong start
+- [ ]  Review the characters
+- [ ]  Create a strong start
 	- Set the stage to foreshadow what to expect from the adventure
-- [x]  Outline potential scenes
+- [ ]  Outline potential scenes
 	- Note any that may need contingency plans if players don't take the bait
-- [x]  Define secrets and clues
+- [ ]  Define secrets and clues
 	- List of things (clues/secrets) to discover during the adventure that convey important information. These are the key narrative elements that define how players will remember the adventure.
-- [x]  Develop fantastic locations
+- [ ]  Develop fantastic locations
 	- These are essentially the main locations players need to get to
 		- For dungeons, these are important rooms
 		- For roleplay scenarios, these are scene locations
 	- Write three fantastic aspects for each -- that is, come up with descriptions to be read out loud
-- [x]  Outline important NPCs
-- [x]  Choose relevant monsters/encounters/puzzles
-- [x]  Select magic item rewards
+- [ ]  Outline important NPCs
+- [ ]  Choose relevant monsters/encounters/puzzles
+- [ ]  Select magic item rewards

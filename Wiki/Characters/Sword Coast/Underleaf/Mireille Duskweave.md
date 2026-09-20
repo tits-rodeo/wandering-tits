@@ -19,4 +19,4 @@ A harengon fortune teller who lives out of a parked carriage near Underleaf's ce
 - **Voice:** Soft, unhurried, drifts mid-sentence into observations that sound like non sequiturs until they turn out not to be.
 - **Memorable Tidbit:** Her carriage sits close enough to the cemetery that whatever she's been "seeing" out there lately, she hasn't been wrong yet.
 - **Home:** A carriage, parked near the cemetery.
-- **Purpose:** In *[[Adventure - Liberating Underleaf|Liberating Underleaf]]*, wary of both the occupiers and the party at first — earning her trust nets a reading with real tactical value for the finale at Hearth Hall.
+- **Purpose:** In *[[1. Adventure - Underleaf|Liberating Underleaf]]*, wary of both the occupiers and the party at first — earning her trust nets a reading with real tactical value for the finale at Hearth Hall.

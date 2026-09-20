@@ -19,4 +19,4 @@ Underleaf's unofficial chronicler — a kobold artist, ink-stained claws, tail p
 - **Voice:** Rapid, detail-obsessed, gets more animated the more minutely observational the conversation gets.
 - **Memorable Tidbit:** Can (and will) describe a face by its asymmetries before its expression.
 - **Home:** A studio somewhere in town.
-- **Purpose:** In *[[Adventure - Liberating Underleaf|Liberating Underleaf]]*, his reference sketches make him the one person positioned to notice something wearing a familiar face wrong — likely home of the adventure's "spot the difference" puzzle, used to expose a Crimson Flame informant in town.
+- **Purpose:** In *[[1. Adventure - Underleaf|Liberating Underleaf]]*, his reference sketches make him the one person positioned to notice something wearing a familiar face wrong — likely home of the adventure's "spot the difference" puzzle, used to expose a Crimson Flame informant in town.

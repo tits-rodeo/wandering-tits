@@ -19,4 +19,4 @@ A quick, patched-leather goblin who knows every back path in and out of Underlea
 - **Voice:** Urgent, breathless, talks in a rush like she's worried she'll be caught mid-sentence.
 - **Memorable Tidbit:** The one who intercepts the party before they can charge straight into town.
 - **Home:** Attached to the resistance cell operating out of the Brewery.
-- **Purpose:** Opening-scene contact for *[[Adventure - Liberating Underleaf|Liberating Underleaf]]*; redirects the party to Renn's Smithy rather than let them walk straight into a patrol.
+- **Purpose:** Opening-scene contact for *[[1. Adventure - Underleaf|Liberating Underleaf]]*; redirects the party to Renn's Smithy rather than let them walk straight into a patrol.

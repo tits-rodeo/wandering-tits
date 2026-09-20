@@ -20,4 +20,4 @@ She was dragged into the donjon along with the other patrons during the [[Crimso
 - **Trope / Character Reference:** Molly Weasley energy — warm, mothering, will absolutely try to fuss over someone's wounds mid-crisis.
 - **Voice:** Soft, fussy, calls everyone "dear" or "love" regardless of age or size.
 - **Memorable Tidbit:** Insisted on carrying a basket of mending/knitting with her even while fleeing for her life.
-- **Purpose:** The gut-punch death of *Into the Gullet* — the one the players actually liked, gone abruptly. In *[[Adventure - Liberating Underleaf|Liberating Underleaf]]*, her hidden cache and her unfilled Circle seat are the town's first, delayed reckoning with her loss.
+- **Purpose:** The gut-punch death of *Into the Gullet* — the one the players actually liked, gone abruptly. In *[[1. Adventure - Underleaf|Liberating Underleaf]]*, her hidden cache and her unfilled Circle seat are the town's first, delayed reckoning with her loss.

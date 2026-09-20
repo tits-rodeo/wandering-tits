@@ -23,4 +23,4 @@ Garrek died in the donjon during the events of *[[Adventure - Into the Gullet|In
 - **Voice:** Clipped, transactional, businesslike — until Garrek comes up, and it cracks.
 - **Memorable Tidbit:** Still keeps Garrek's ledger open on the counter.
 - **Home:** Runs Underleaf's general store; Garrek's old room is in the back.
-- **Purpose:** In *[[Adventure - Liberating Underleaf|Liberating Underleaf]]*, he's the gatekeeper to the secret Brewery↔Grocer's House tunnel — won't cooperate until the party genuinely reckons with what happened to Garrek, not just apologizes for form's sake.
+- **Purpose:** In *[[1. Adventure - Underleaf|Liberating Underleaf]]*, he's the gatekeeper to the secret Brewery↔Grocer's House tunnel — won't cooperate until the party genuinely reckons with what happened to Garrek, not just apologizes for form's sake.

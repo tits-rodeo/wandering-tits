@@ -3,6 +3,21 @@ publish: false
 tags:
   - wandering-tits
 ---
+Jergal was Faerûn's original god of death, an ancient being who held the portfolios of the Dead, Murder, and Strife back in the days of Netheril. Long before most of the gods worshiped today rose to prominence, Jergal grew weary of the weight of his own office and voluntarily ceded it away, becoming a quiet servant to the very mortals he elevated in his place.
+
+**Titles:** Lord of the End of Everything, The Pitiless One, The Forgotten One, The Final Scribe, Scribe of the Doomed, The Bleak Seneschal
+**Alignment:** Lawful neutral
+**Domains:** Death, Knowledge
+**Worshipers:** Undertakers, those who keep or unearth secrets
+
+## Description
+Jergal is depicted as a member of an ancient, alien race — a wizened, insubstantial creature resembling a cross between a humanoid and a praying mantis. His tightly taut gray skin, elongated skull, bulbous lifeless yellow eyes, and insectoid mandibles give him a mummy-like, unsettling presence. His clawed hands are always gloved in white, and the rest of him is wrapped in a gray, shadow-filled cloak that moves as if in a wind that isn't there — its outer surface is said to be a gate to the Negative Energy Plane. He carries a quill and a thick scroll covered in an incomprehensible script, and his voice carries the dry, disembodied whisper of a long-forgotten tomb.
+
+He was venerated under the name **Nakasr** among Netheril's successor states.
+
+## History
+Jergal was a greater deity in Netheril's time, but as the aeons wore on he grew bored with the burden of his office. Rather than continue to hold it, he allowed three ambitious mortals — Bane, Bhaal, and Myrkul, together remembered as the Dark Three — to each claim a portion of his divinity: Bane took up Strife, Myrkul took the rulership of the Dead, and Bhaal claimed Murder. Jergal himself faded into obscurity, becoming seneschal first to Myrkul, and, after Myrkul's fall, to Cyric and then Kelemvor in turn.
+
 ## (DM Only) The Dark of It
 
 ### The Spell Weavers

@@ -2,42 +2,59 @@
 publish: false
 tags:
 ---
-Basic summary in one or two paragraphs
+Brief details about the purpose of this area
 
 ---
-# Scenes / Encounters
 
-## Opening scene
-> *Opening scene*
-Event details
+# Room / Area / Event
+> *Read-aloud text*, NPC dialogue upon scene start, etc
+- What other key information does the DM need to get the scene started?
+- What can the players do here?
+- What might happen to the players here?
+- How do challenges, puzzles, or special mechanics work here?
 
-## Room / Area / Event
-> *Description*
-Brief outline of chronological and/or narrative flow of the scene, short enough to be kept in the DM's head during gameplay.
+## NPCs
+[[NPC Name]]
+- **Character action or choice that leads to additional dialogue/response**: `"NPC dialogue here"`
+[[NPC Name]]
+- **Character action or choice that leads to additional dialogue/response**: `"NPC dialogue here"`
 
-### Features:
-- Bullet points highlighting things that can are interesting enough the player may want to interact with them.
+## Encounter
+- Monster
+`statblock.md` for custom monsters
+- Monster
+`statblock.md` for custom monsters
 
-### Mechanics:
-- Bullet points outlining special mechanics and challenges for the area.
+## Treasure
+- [[Magic Item]]
+- [[Magic Item]]
+- Mundane Item
+- Gold
+---
 
-### NPC Dialogue:
-- **Character action or choice that leads to dialogue/response**:
-  >*Dialogue*
+# Room / Area / Event
+> *Read-aloud text*, NPC dialogue upon scene start, etc
+- What other key information does the DM need to get the scene started?
+- What can the players do here?
+- What might happen to the players here?
+- How do challenges, puzzles, or special mechanics work here?
 
-## Room / Area / Event
-> *Description*
-### Features:
-- Bullet points highlighting things that can are interesting enough the player may want to interact with them.
+## NPCs
+[[NPC Name]]
+- **Character action or choice that leads to additional dialogue/response**: `"NPC dialogue here"`
+[[NPC Name]]
+- **Character action or choice that leads to additional dialogue/response**: `"NPC dialogue here"`
 
-### Mechanics:
-- Bullet points outlining special mechanics and challenges for the area.
+## Encounter
+- Monster
+`statblock.md` for custom monsters
+- Monster
+`statblock.md` for custom monsters
+
+## Treasure
+- [[Magic Item]]
+- [[Magic Item]]
+- Mundane Item
+- Gold
 
 ---
-# Treasure
-- **Mundane Items:**
-	- Location1: Gold, Item
-	- Location2: Item, Item
-- **Magic Items:***
-	- Location3: [[Magic Item]], [[Magic Item]]
-	- Location4: [[Magic Item]], [[Magic Item]]
