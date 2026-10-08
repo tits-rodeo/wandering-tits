@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -12,7 +12,7 @@ tags:
 >**Race**|Tiefling|
 
 ## Background
-A sharp-eyed tiefling shopkeeper who runs Underleaf's general store, ledger perpetually in hand. Years ago he took in [[Garrek]] as an apprentice and, in every way that mattered, a son — gave him work and a room in the back of the shop. He sits on Underleaf's Circle, the town's rotating governing body.
+A sharp-eyed tiefling shopkeeper who runs Underleaf's general store, ledger perpetually in hand. Years ago he took in [[Garrek]] as an apprentice and, in every way that mattered, a son, giving him work and a room in the back of the shop. He sits on Underleaf's Circle, the town's rotating governing body.
 
 ## (DM Only) The Dark of It
 

@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -11,7 +11,7 @@ tags:
 >**Race**|Aasimar|
 
 ## Background
-A traveling Aasimar of [[Helm]]'s order, passing through [[Underleaf|Wreathwood]] during its occupation by [[Neronvain]]'s Verdant Claw. He threw in with [[The Underfoot]] rather than move on, and died fighting alongside them in the final push that drove the cult out. He's buried in what's now Underleaf's Cemetery, one grave among the Underfoot's other dead, unmarked and unremarked. His cursed ceremonial helm survived him, lost somewhere in the tunnels the Underfoot dug beneath the town (see *[[The Underfoot]]*) until [[Quinsley]] finds it generations later.
+A traveling Aasimar of [[Helm]]'s order, passing through [[Underleaf|Wreathwood]] during its occupation by [[Neronvain]]'s Verdant Claw. He threw in with [[The Underfoot]] rather than move on, and died fighting alongside them in the final push that drove the cult out. He's buried in what's now Underleaf's Cemetery, one grave among the Underfoot's other dead, unmarked and unremarked. His cursed ceremonial helm survived him, lost somewhere in the tunnels the Underfoot dug beneath the town.
 
 ## (DM Only) Personality (Roleplay Notes)
 - **Trope / Character Reference:** Gallows-humor battlefield medic energy — devout but irreverent, cracks dark jokes mid-fight, copes with what vigilance actually costs by refusing to treat any of it solemnly.
