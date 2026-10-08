@@ -1,0 +1,9 @@
+{
+    "id": "template-context-menu",
+    "name": "Template Context Menu",
+    "description": "Adds a Templates submenu to the editor right-click menu, listing every file in the core Templates folder.",
+    "version": "1.0.0",
+    "minAppVersion": "1.4.0",
+    "author": "saltybrackets",
+    "isDesktopOnly": false
+}
