@@ -15,7 +15,7 @@ tags:
 Underleaf's unofficial chronicler — a kobold artist, ink-stained claws, tail perpetually flicking paint, who's sketched or painted nearly every household in town at one point or another. His studio walls are covered floor to ceiling in portraits and reference sketches.
 
 ## (DM Only) Personality (Roleplay Notes)
-- **Trope / Character Reference:** Adrian Monk (*Monk*) energy — obsessive, detail-fixated, can't help but notice and narrate the one thing that's subtly wrong before anything else registers.
+- **Trope / Character Reference:** Childlike energy — obsessive, detail-fixated, can't help but notice and narrate the one thing that's subtly wrong before anything else registers.
 - **Voice:** Rapid, detail-obsessed, gets more animated the more minutely observational the conversation gets.
 - **Memorable Tidbit:** Can (and will) describe a face by its asymmetries before its expression.
 - **Home:** A studio somewhere in town.

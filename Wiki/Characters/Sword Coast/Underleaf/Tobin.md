@@ -16,6 +16,8 @@ A wide-eyed halfling in a patched vest, permanently untied bootlaces — stable 
 
 He is the sole patron to survive. He froze during the escape and would have been left behind if [[Azhura]] hadn't doubled back and physically dragged him out with her tail. He carries that moment, and the deaths of [[Old Maud]], [[Garrek]], and [[Renn Vask]], with him.
 
+Tobin has a wife named Gethilda and a daughter named Millie.
+
 ## (DM Only) Personality (Roleplay Notes)
 - **Trope / Character Reference:** Samwise Gamgee — earnest, loyal, braver than he looks, wants desperately to help and keep everyone together.
 - **Voice:** Eager, a little breathless, talks himself into courage out loud.
