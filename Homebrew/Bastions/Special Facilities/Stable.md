@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -19,4 +19,4 @@ After a Beast that can serve as a mount spends at least 14 days in this facility
 
 When you sell a mount from your Stable, the buyer pays you 20 percent more than the standard price; this profit increases to 50 percent when you reach level 13 and 100 percent when you reach level 17.
 
-**_Enlarging the Facility._** You can enlarge your Stable to a Vast facility by spending 2,000 GP. If you do so, the Stable is large enough to house six Large animals.
+**_Enlarging the Facility._** You can enlarge your Stable to a 36 squares facility by spending 2,000 GP. If you do so, the Stable is large enough to house six Large animals.

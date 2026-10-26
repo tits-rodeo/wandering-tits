@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -16,8 +16,6 @@ A Bastion can have more than one Garden. Each time you add a Garden to your Bast
 While in your Bastion, you can instruct the facility’s hireling to change the Garden from one type to another. This work takes 21 days, during which time no other activity can occur in this facility.
 
 **_Harvest: Garden Growth._** When you issue the Harvest order to this facility, you commission the facility’s hireling to collect items from the Garden as noted in the Garden Types table. The work takes 7 days and costs no money.
-
-**_Enlarging the Facility._** You can enlarge your Garden to a Vast facility by spending 2,000 GP. A Vast Garden is equivalent to two Roomy Gardens and can include two of the same type of Garden or two different types. When you issue the Harvest order to a Vast Garden, each component garden produces its own harvest. A Vast Garden gains one additional hireling.
 
 #### Garden Types
 |Garden Type|Description|Harvest|
