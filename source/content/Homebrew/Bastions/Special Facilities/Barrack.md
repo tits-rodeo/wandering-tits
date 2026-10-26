@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -17,4 +17,4 @@ A Bastion can have more than one Barrack, each of which is furnished to serve as
 
 Keep track of the Bastion Defenders housed in each of your Barracks. If you lose Bastion Defenders, deduct them from your roster. Assign names and personalities to your Bastion Defenders as you see fit.
 
-**_Enlarging the Facility._** You can enlarge your Barrack to a Vast facility by spending 2,000 GP. A Vast Barrack can accommodate up to twenty-five Bastion Defenders.
+**_Enlarging the Facility._** You can enlarge your Barrack to a 36 squares facility by spending 2,000 GP. A Vast Barrack can accommodate up to twenty-five Bastion Defenders.

@@ -1,26 +1,24 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
-### Training Area
-_Level 9 Bastion Facility_
+### Combat Training Area
+_Level 5 Bastion Facility_
 
 **Prerequisite:** None
-**Space:** 36 squares
-**Hirelings:** 4
+**Space:** 16 squares
+**Hirelings:** 2
 **Order:** Empower
 
-A Bastion can have more than one Training Area. A Training Area might be an open courtyard, a gymnasium, a music or dance hall, or a cleverly built gauntlet of traps and hazards. It might contain inanimate targets (for weapon practice), padded mats, and other equipment. One of the facility’s hirelings is an expert trainer; the others serve as training partners.
+A Bastion can have more than one Combat Training Area. A Combat Training Area might be an open courtyard, a gymnasium, or a cleverly built gauntlet of traps and hazards. It might contain inanimate targets (for weapon practice), padded mats, and other equipment. One of the facility’s hirelings is an expert trainer; the other serves as a training partner.
 
-When a Training Area becomes part of your Bastion, choose one trainer from the Expert Trainers table. On each Bastion turn, you can replace that trainer with another one from the table.
+When a Combat Training Area becomes part of your Bastion, choose one trainer from the Expert Trainers table. On each Bastion turn, you can replace that trainer with another one from the table.
 
 #### Expert Trainers
 |Trainer Type|Empower Effect|
 |---|---|
 |Battle Expert|When you take damage from an attack made with an Unarmed Strike or a weapon, you can take a Reaction to reduce this damage by 1d4.|
-|Skills Expert|You gain proficiency in one of the following skills of your choice: Acrobatics, Athletics, Performance, Sleight of Hand, or Stealth.|
-|Tools Expert|You gain proficiency with one tool of your choice.|
 |Unarmed Combat Expert|When you hit with your Unarmed Strike and deal damage, the attack deals an extra 1d4 Bludgeoning damage.|
 |Weapon Expert|Choose a kind of Simple or Martial weapon, such as Spear or Longbow. If you aren’t proficient with the weapon, you gain proficiency with it. If you already have proficiency with the weapon, you can use its mastery property.|
 

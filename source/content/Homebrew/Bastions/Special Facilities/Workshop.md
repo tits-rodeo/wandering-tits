@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -34,4 +34,4 @@ This Workshop is a creative space where useful items can be crafted.
 
 **_Source of Inspiration._** After spending an entire Short Rest in your Workshop, you gain Heroic Inspiration. You can’t gain this benefit again until you finish a Long Rest.
 
-**_Enlarging the Facility._** You can enlarge your Workshop to a Vast facility by spending 2,000 GP. If you do so, the Workshop gains two additional hirelings and three additional Artisan’s Tools (chosen from the list above).
+**_Enlarging the Facility._** You can enlarge your Workshop to a 36 squares facility by spending 2,000 GP. If you do so, the Workshop gains two additional hirelings and three additional Artisan’s Tools (chosen from the list above).

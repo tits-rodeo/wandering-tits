@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 tags:
   - wandering-tits
 ---
@@ -22,4 +22,4 @@ An Archive is a repository of valuable books, maps, and scrolls. It is usually a
 - **Material Musings on the Nature of the World.** You have Advantage on any Intelligence (Nature) check you make when you take the Study action to recall lore about terrain, plants, animals, and the weather.
 - **The Old Faith and Other Religions.** You have Advantage on any Intelligence (Religion) check you make when you take the Study action to recall lore about deities, rites and prayers, hierarchies, holy symbols, and the practices of secret cults.
 
-**_Enlarging the Facility._** You can enlarge your Archive to a Vast facility by spending 2,000 GP. If you do so, you gain two additional reference books chosen from the list above.
+**_Enlarging the Facility._** You can enlarge your Archive to a 36 squares facility by spending 2,000 GP. If you do so, you gain two additional reference books chosen from the list above.
